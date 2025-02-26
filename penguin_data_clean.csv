@@ -1,0 +1,1203 @@
+count_id;site_id;site_name;longitude_epsg_4326;latitude_epsg_4326;species_id;common_name;year;penguin_sum
+ADAM_2011_ADEL;ADAM;Adams Island;92,549;-66,546;ADEL;adelie penguin;2011;425
+ADAR_1982_ADEL;ADAR;Cape Adare;170,2;-71,306;ADEL;adelie penguin;1982;220900
+AITC_2009_CHIN;AITC;Barrientos Island (Aitcho Islands);-59,752;-62,407;CHIN;chinstrap penguin;2009;8307
+AITC_2010_CHIN;AITC;Barrientos Island (Aitcho Islands);-59,752;-62,407;CHIN;chinstrap penguin;2010;4870
+AITC_2002_GENT;AITC;Barrientos Island (Aitcho Islands);-59,752;-62,407;GENT;gentoo penguin;2002;1236
+AITC_2006_GENT;AITC;Barrientos Island (Aitcho Islands);-59,752;-62,407;GENT;gentoo penguin;2006;2483
+AITC_2008_GENT;AITC;Barrientos Island (Aitcho Islands);-59,752;-62,407;GENT;gentoo penguin;2008;2742
+AITC_2014_GENT;AITC;Barrientos Island (Aitcho Islands);-59,752;-62,407;GENT;gentoo penguin;2014;2297
+AITC_2007_KING;AITC;Barrientos Island (Aitcho Islands);-59,752;-62,407;KING;king penguin;2007;1
+AITC_2008_KING;AITC;Barrientos Island (Aitcho Islands);-59,752;-62,407;KING;king penguin;2008;2
+AITC_2009_KING;AITC;Barrientos Island (Aitcho Islands);-59,752;-62,407;KING;king penguin;2009;1
+AKAR_1975_ADEL;AKAR;Akarui Point;41,39;-68,5;ADEL;adelie penguin;1975;58
+AKAR_1981_ADEL;AKAR;Akarui Point;41,39;-68,5;ADEL;adelie penguin;1981;211
+AKAR_1984_ADEL;AKAR;Akarui Point;41,39;-68,5;ADEL;adelie penguin;1984;187
+ALMI_2006_GENT;ALMI;Brown Station;-62,87;-64,896;GENT;gentoo penguin;2006;121
+ALMI_2009_GENT;ALMI;Brown Station;-62,87;-64,896;GENT;gentoo penguin;2009;165
+ALMI_2010_GENT;ALMI;Brown Station;-62,87;-64,896;GENT;gentoo penguin;2010;228
+ALMI_2012_GENT;ALMI;Brown Station;-62,87;-64,896;GENT;gentoo penguin;2012;178
+ALMI_2015_GENT;ALMI;Brown Station;-62,87;-64,896;GENT;gentoo penguin;2015;211
+ALMI_2016_GENT;ALMI;Brown Station;-62,87;-64,896;GENT;gentoo penguin;2016;189
+ALMI_2018_GENT;ALMI;Brown Station;-62,87;-64,896;GENT;gentoo penguin;2018;395
+AMAN_1961_EMPE;AMAN;Amanda Bay;76,835;-69,271;EMPE;emperor penguin;1961;1500
+AMAN_1983_EMPE;AMAN;Amanda Bay;76,835;-69,271;EMPE;emperor penguin;1983;2339
+AMAN_1987_EMPE;AMAN;Amanda Bay;76,835;-69,271;EMPE;emperor penguin;1987;9000
+AMAN_2009_EMPE;AMAN;Amanda Bay;76,835;-69,271;EMPE;emperor penguin;2009;6831
+AMUN_2009_EMPE;AMUN;Amundsen Bay;50,544;-66,783;EMPE;emperor penguin;2009;88
+ANCH_1977_ADEL;ANCH;Anchorage Island;-68,209;-67,604;ADEL;adelie penguin;1977;250
+ANDI_2013_ADEL;ANDI;Andresen Island Site 2;-66,711;-66,875;ADEL;adelie penguin;2013;478
+ANDI_2016_ADEL;ANDI;Andresen Island Site 2;-66,711;-66,875;ADEL;adelie penguin;2016;495
+ANDR_2009_ADEL;ANDR;Andresen Island Site 1;-66,649;-66,879;ADEL;adelie penguin;2009;309
+ANDR_2013_ADEL;ANDR;Andresen Island Site 1;-66,649;-66,879;ADEL;adelie penguin;2013;1104
+ANDR_2016_ADEL;ANDR;Andresen Island Site 1;-66,649;-66,879;ADEL;adelie penguin;2016;1433
+ANVS_2020_GENT;ANVS;Anvers Island South West (7 km south of Gerlache Island);-64,247;-64,661;GENT;gentoo penguin;2020;3115
+ARDL_2010_ADEL;ARDL;Ardley Island;-58,933;-62,213;ADEL;adelie penguin;2010;522
+ARDL_2011_ADEL;ARDL;Ardley Island;-58,933;-62,213;ADEL;adelie penguin;2011;592
+ARDL_2012_ADEL;ARDL;Ardley Island;-58,933;-62,213;ADEL;adelie penguin;2012;432
+ARDL_2013_ADEL;ARDL;Ardley Island;-58,933;-62,213;ADEL;adelie penguin;2013;525
+ARDL_2014_ADEL;ARDL;Ardley Island;-58,933;-62,213;ADEL;adelie penguin;2014;177
+ARDL_2015_ADEL;ARDL;Ardley Island;-58,933;-62,213;ADEL;adelie penguin;2015;307
+ARDL_2016_ADEL;ARDL;Ardley Island;-58,933;-62,213;ADEL;adelie penguin;2016;545
+ARDL_2018_ADEL;ARDL;Ardley Island;-58,933;-62,213;ADEL;adelie penguin;2018;338
+ARDL_2017_ADEL;ARDL;Ardley Island;-58,933;-62,213;ADEL;adelie penguin;2017;398
+ARDL_2019_ADEL;ARDL;Ardley Island;-58,933;-62,213;ADEL;adelie penguin;2019;307
+ARDL_2010_CHIN;ARDL;Ardley Island;-58,933;-62,213;CHIN;chinstrap penguin;2010;15
+ARDL_2011_CHIN;ARDL;Ardley Island;-58,933;-62,213;CHIN;chinstrap penguin;2011;19
+ARDL_2012_CHIN;ARDL;Ardley Island;-58,933;-62,213;CHIN;chinstrap penguin;2012;19
+ARDL_2013_CHIN;ARDL;Ardley Island;-58,933;-62,213;CHIN;chinstrap penguin;2013;18
+ARDL_2014_CHIN;ARDL;Ardley Island;-58,933;-62,213;CHIN;chinstrap penguin;2014;23
+ARDL_2015_CHIN;ARDL;Ardley Island;-58,933;-62,213;CHIN;chinstrap penguin;2015;27
+ARDL_2016_CHIN;ARDL;Ardley Island;-58,933;-62,213;CHIN;chinstrap penguin;2016;23
+ARDL_2017_CHIN;ARDL;Ardley Island;-58,933;-62,213;CHIN;chinstrap penguin;2017;18
+ARDL_2018_CHIN;ARDL;Ardley Island;-58,933;-62,213;CHIN;chinstrap penguin;2018;18
+ARDL_2019_CHIN;ARDL;Ardley Island;-58,933;-62,213;CHIN;chinstrap penguin;2019;12
+ARDL_2010_GENT;ARDL;Ardley Island;-58,933;-62,213;GENT;gentoo penguin;2010;7276
+ARDL_2011_GENT;ARDL;Ardley Island;-58,933;-62,213;GENT;gentoo penguin;2011;7159
+ARDL_2012_GENT;ARDL;Ardley Island;-58,933;-62,213;GENT;gentoo penguin;2012;6923
+ARDL_2013_GENT;ARDL;Ardley Island;-58,933;-62,213;GENT;gentoo penguin;2013;7206
+ARDL_2014_GENT;ARDL;Ardley Island;-58,933;-62,213;GENT;gentoo penguin;2014;6359
+ARDL_2015_GENT;ARDL;Ardley Island;-58,933;-62,213;GENT;gentoo penguin;2015;4869
+ARDL_2016_GENT;ARDL;Ardley Island;-58,933;-62,213;GENT;gentoo penguin;2016;9627
+ARDL_2017_GENT;ARDL;Ardley Island;-58,933;-62,213;GENT;gentoo penguin;2017;8022
+ARDL_2018_GENT;ARDL;Ardley Island;-58,933;-62,213;GENT;gentoo penguin;2018;7295
+ARDL_2019_GENT;ARDL;Ardley Island;-58,933;-62,213;GENT;gentoo penguin;2019;8903
+ARMS_1984_ADEL;ARMS;Armstrong Reef;-66,197;-65,884;ADEL;adelie penguin;1984;9626
+ARMS_2013_ADEL;ARMS;Armstrong Reef;-66,197;-65,884;ADEL;adelie penguin;2013;2813
+ASTD_2009_EMPE;ASTD;Astrid;8,318;-69,948;EMPE;emperor penguin;2009;1368
+ATKA_1986_EMPE;ATKA;Atka;-8,132;-70,614;EMPE;emperor penguin;1986;8000
+ATKA_2009_EMPE;ATKA;Atka;-8,132;-70,614;EMPE;emperor penguin;2009;9657
+AUST_1978_EMPE;AUST;Auster Islands;63,974;-67,397;EMPE;emperor penguin;1978;11000
+AUST_1988_EMPE;AUST;Auster Islands;63,974;-67,397;EMPE;emperor penguin;1988;11000
+AUST_2009_EMPE;AUST;Auster Islands;63,974;-67,397;EMPE;emperor penguin;2009;7855
+AVIA_1968_ADEL;AVIA;Avian Island;-68,885;-67,773;ADEL;adelie penguin;1968;57500
+AVIA_2013_ADEL;AVIA;Avian Island;-68,885;-67,773;ADEL;adelie penguin;2013;47146
+BAIL_1987_CHIN;BAIL;Baily Head (Deception Island);-60,506;-62,965;CHIN;chinstrap penguin;1987;125000
+BAIL_2004_MACA;BAIL;Baily Head (Deception Island);-60,506;-62,965;MACA;macaroni penguin;2004;1
+BAIL_2009_MACA;BAIL;Baily Head (Deception Island);-60,506;-62,965;MACA;macaroni penguin;2009;1
+BART_1987_CHIN;BART;Barton Peninsula;-58,775;-62,237;CHIN;chinstrap penguin;1987;3500
+BART_2010_CHIN;BART;Barton Peninsula;-58,775;-62,237;CHIN;chinstrap penguin;2010;3963
+BART_2011_CHIN;BART;Barton Peninsula;-58,775;-62,237;CHIN;chinstrap penguin;2011;4426
+BART_2012_CHIN;BART;Barton Peninsula;-58,775;-62,237;CHIN;chinstrap penguin;2012;4392
+BART_2013_CHIN;BART;Barton Peninsula;-58,775;-62,237;CHIN;chinstrap penguin;2013;4438
+BART_2014_CHIN;BART;Barton Peninsula;-58,775;-62,237;CHIN;chinstrap penguin;2014;2824
+BART_2015_CHIN;BART;Barton Peninsula;-58,775;-62,237;CHIN;chinstrap penguin;2015;3453
+BART_2016_CHIN;BART;Barton Peninsula;-58,775;-62,237;CHIN;chinstrap penguin;2016;4360
+BART_2017_CHIN;BART;Barton Peninsula;-58,775;-62,237;CHIN;chinstrap penguin;2017;3823
+BART_2018_CHIN;BART;Barton Peninsula;-58,775;-62,237;CHIN;chinstrap penguin;2018;3262
+BART_2019_CHIN;BART;Barton Peninsula;-58,775;-62,237;CHIN;chinstrap penguin;2019;2399
+BART_2010_GENT;BART;Barton Peninsula;-58,775;-62,237;GENT;gentoo penguin;2010;2796
+BART_2011_GENT;BART;Barton Peninsula;-58,775;-62,237;GENT;gentoo penguin;2011;2939
+BART_2012_GENT;BART;Barton Peninsula;-58,775;-62,237;GENT;gentoo penguin;2012;2556
+BART_2013_GENT;BART;Barton Peninsula;-58,775;-62,237;GENT;gentoo penguin;2013;2876
+BART_2014_GENT;BART;Barton Peninsula;-58,775;-62,237;GENT;gentoo penguin;2014;1679
+BART_2015_GENT;BART;Barton Peninsula;-58,775;-62,237;GENT;gentoo penguin;2015;1703
+BART_2016_GENT;BART;Barton Peninsula;-58,775;-62,237;GENT;gentoo penguin;2016;3210
+BART_2017_GENT;BART;Barton Peninsula;-58,775;-62,237;GENT;gentoo penguin;2017;2642
+BART_2018_GENT;BART;Barton Peninsula;-58,775;-62,237;GENT;gentoo penguin;2018;2730
+BART_2019_GENT;BART;Barton Peninsula;-58,775;-62,237;GENT;gentoo penguin;2019;2995
+BEAN_1976_EMPE;BEAN;Beaufort Island North;166,881;-76,929;EMPE;emperor penguin;1976;1787
+BEAN_1983_EMPE;BEAN;Beaufort Island North;166,881;-76,929;EMPE;emperor penguin;1983;179
+BEAN_2000_EMPE;BEAN;Beaufort Island North;166,881;-76,929;EMPE;emperor penguin;2000;2877
+BEAN_2001_EMPE;BEAN;Beaufort Island North;166,881;-76,929;EMPE;emperor penguin;2001;2705
+BEAN_2002_EMPE;BEAN;Beaufort Island North;166,881;-76,929;EMPE;emperor penguin;2002;3235
+BEAN_2003_EMPE;BEAN;Beaufort Island North;166,881;-76,929;EMPE;emperor penguin;2003;1247
+BEAN_2004_EMPE;BEAN;Beaufort Island North;166,881;-76,929;EMPE;emperor penguin;2004;1013
+BEAN_2005_EMPE;BEAN;Beaufort Island North;166,881;-76,929;EMPE;emperor penguin;2005;1850
+BEAN_2006_EMPE;BEAN;Beaufort Island North;166,881;-76,929;EMPE;emperor penguin;2006;2467
+BEAN_2007_EMPE;BEAN;Beaufort Island North;166,881;-76,929;EMPE;emperor penguin;2007;2354
+BEAN_2008_EMPE;BEAN;Beaufort Island North;166,881;-76,929;EMPE;emperor penguin;2008;2792
+BEAN_2009_EMPE;BEAN;Beaufort Island North;166,881;-76,929;EMPE;emperor penguin;2009;1641
+BEAN_2010_EMPE;BEAN;Beaufort Island North;166,881;-76,929;EMPE;emperor penguin;2010;3202
+BEAN_2011_EMPE;BEAN;Beaufort Island North;166,881;-76,929;EMPE;emperor penguin;2011;667
+BEAN_2012_EMPE;BEAN;Beaufort Island North;166,881;-76,929;EMPE;emperor penguin;2012;1517
+BEAN_2018_EMPE;BEAN;Beaufort Island North;166,881;-76,929;EMPE;emperor penguin;2018;879
+BEAR_2009_EMPE;BEAR;Bear Peninsula;-110,192;-74,392;EMPE;emperor penguin;2009;9457
+BEAU_1981_ADEL;BEAU;Beaufort Island;166,898;-76,969;ADEL;adelie penguin;1981;34644
+BECH_1990_ADEL;BECH;Bechervaise Island;62,817;-67,583;ADEL;adelie penguin;1990;1498
+BECH_1991_ADEL;BECH;Bechervaise Island;62,817;-67,583;ADEL;adelie penguin;1991;1304
+BECH_1992_ADEL;BECH;Bechervaise Island;62,817;-67,583;ADEL;adelie penguin;1992;1190
+BECH_1993_ADEL;BECH;Bechervaise Island;62,817;-67,583;ADEL;adelie penguin;1993;1816
+BECH_1994_ADEL;BECH;Bechervaise Island;62,817;-67,583;ADEL;adelie penguin;1994;34
+BECH_1995_ADEL;BECH;Bechervaise Island;62,817;-67,583;ADEL;adelie penguin;1995;727
+BECH_1996_ADEL;BECH;Bechervaise Island;62,817;-67,583;ADEL;adelie penguin;1996;1750
+BECH_1997_ADEL;BECH;Bechervaise Island;62,817;-67,583;ADEL;adelie penguin;1997;1556
+BECH_1998_ADEL;BECH;Bechervaise Island;62,817;-67,583;ADEL;adelie penguin;1998;720
+BECH_1999_ADEL;BECH;Bechervaise Island;62,817;-67,583;ADEL;adelie penguin;1999;990
+BECH_2000_ADEL;BECH;Bechervaise Island;62,817;-67,583;ADEL;adelie penguin;2000;1697
+BECH_2001_ADEL;BECH;Bechervaise Island;62,817;-67,583;ADEL;adelie penguin;2001;2264
+BELL_1987_CHIN;BELL;Bell Point to Kwarecki Point;-58,889;-62,119;CHIN;chinstrap penguin;1987;4000
+BELS_2020_CHIN;BELS;Cape Belsham;-54,883;-61,096;CHIN;chinstrap penguin;2020;6000
+BENE_1986_GENT;BENE;Beneden Head;-62,701;-64,767;GENT;gentoo penguin;1986;700
+BENE_2009_GENT;BENE;Beneden Head;-62,701;-64,767;GENT;gentoo penguin;2009;981
+BENE_2012_GENT;BENE;Beneden Head;-62,701;-64,767;GENT;gentoo penguin;2012;1720
+BENT_1977_ADEL;BENT;Benten;39,25;-69,042;ADEL;adelie penguin;1977;7
+BENT_1981_ADEL;BENT;Benten;39,25;-69,042;ADEL;adelie penguin;1981;12
+BENT_1982_ADEL;BENT;Benten;39,25;-69,042;ADEL;adelie penguin;1982;10
+BENT_1983_ADEL;BENT;Benten;39,25;-69,042;ADEL;adelie penguin;1983;8
+BENT_1984_ADEL;BENT;Benten;39,25;-69,042;ADEL;adelie penguin;1984;6
+BENT_1989_ADEL;BENT;Benten;39,25;-69,042;ADEL;adelie penguin;1989;3
+BENT_1991_ADEL;BENT;Benten;39,25;-69,042;ADEL;adelie penguin;1991;2
+BENT_1995_ADEL;BENT;Benten;39,25;-69,042;ADEL;adelie penguin;1995;3
+BENT_1996_ADEL;BENT;Benten;39,25;-69,042;ADEL;adelie penguin;1996;2
+BENT_1997_ADEL;BENT;Benten;39,25;-69,042;ADEL;adelie penguin;1997;5
+BENT_1998_ADEL;BENT;Benten;39,25;-69,042;ADEL;adelie penguin;1998;9
+BENT_1999_ADEL;BENT;Benten;39,25;-69,042;ADEL;adelie penguin;1999;15
+BENT_2000_ADEL;BENT;Benten;39,25;-69,042;ADEL;adelie penguin;2000;11
+BENT_2001_ADEL;BENT;Benten;39,25;-69,042;ADEL;adelie penguin;2001;11
+BENT_2002_ADEL;BENT;Benten;39,25;-69,042;ADEL;adelie penguin;2002;18
+BENT_2003_ADEL;BENT;Benten;39,25;-69,042;ADEL;adelie penguin;2003;27
+BENT_2004_ADEL;BENT;Benten;39,25;-69,042;ADEL;adelie penguin;2004;23
+BERK_1980_ADEL;BERK;Berkley/Cameron;110,64;-66,216;ADEL;adelie penguin;1980;2928
+BERT_2007_ADEL;BERT;Berthelot Islands (excl, Green Island);-64,112;-65,333;ADEL;adelie penguin;2007;548
+BERT_2024_ADEL;BERT;Berthelot Islands (excl, Green Island);-64,112;-65,333;ADEL;adelie penguin;2024;400
+BIEN_1984_ADEL;BIEN;Cape Bienvenue;140,525;-66,72;ADEL;adelie penguin;1984;10000
+BISC_1983_ADEL;BISC;Biscoe Point;-63,778;-64,811;ADEL;adelie penguin;1983;3440
+BONG_2010_ADEL;BONG;Bongrain Point (Pourquoi Pas Island);-67,732;-67,723;ADEL;adelie penguin;2010;4094
+BONG_2023_ADEL;BONG;Bongrain Point (Pourquoi Pas Island);-67,732;-67,723;ADEL;adelie penguin;2023;4573
+BONG_2024_ADEL;BONG;Bongrain Point (Pourquoi Pas Island);-67,732;-67,723;ADEL;adelie penguin;2024;1625
+BOWM_1960_EMPE;BOWM;Bowman Island;103,067;-65,161;EMPE;emperor penguin;1960;1500
+BOWM_2009_EMPE;BOWM;Bowman Island;103,067;-65,161;EMPE;emperor penguin;2009;1609
+BPTS_1987_CHIN;BPTS;Byewater Point (south);-61,526;-62,775;CHIN;chinstrap penguin;1987;2500
+BRIM_1987_CHIN;BRIM;Brimstone Peak;-57,752;-61,912;CHIN;chinstrap penguin;1987;10000
+BRIT_2020_CHIN;BRIT;Brittannia's Figleaf;-55,213;-61,278;CHIN;chinstrap penguin;2020;1526
+BROW_1996_ADEL;BROW;Brown Bluff;-56,905;-63,522;ADEL;adelie penguin;1996;20000
+BROW_2013_ADEL;BROW;Brown Bluff;-56,905;-63,522;ADEL;adelie penguin;2013;18630
+BROW_1996_GENT;BROW;Brown Bluff;-56,905;-63,522;GENT;gentoo penguin;1996;225
+BROW_2001_GENT;BROW;Brown Bluff;-56,905;-63,522;GENT;gentoo penguin;2001;511
+BROW_2002_GENT;BROW;Brown Bluff;-56,905;-63,522;GENT;gentoo penguin;2002;560
+BROW_2003_GENT;BROW;Brown Bluff;-56,905;-63,522;GENT;gentoo penguin;2003;1432
+BROW_2005_GENT;BROW;Brown Bluff;-56,905;-63,522;GENT;gentoo penguin;2005;589
+BROW_2006_GENT;BROW;Brown Bluff;-56,905;-63,522;GENT;gentoo penguin;2006;118
+BROW_2007_GENT;BROW;Brown Bluff;-56,905;-63,522;GENT;gentoo penguin;2007;682
+BROW_2008_GENT;BROW;Brown Bluff;-56,905;-63,522;GENT;gentoo penguin;2008;1355
+BROW_2009_GENT;BROW;Brown Bluff;-56,905;-63,522;GENT;gentoo penguin;2009;1714
+BROW_2011_GENT;BROW;Brown Bluff;-56,905;-63,522;GENT;gentoo penguin;2011;1004
+BROW_2010_GENT;BROW;Brown Bluff;-56,905;-63,522;GENT;gentoo penguin;2010;480
+BROW_2016_GENT;BROW;Brown Bluff;-56,905;-63,522;GENT;gentoo penguin;2016;1269
+BROW_2018_GENT;BROW;Brown Bluff;-56,905;-63,522;GENT;gentoo penguin;2018;1154
+BROW_2019_GENT;BROW;Brown Bluff;-56,905;-63,522;GENT;gentoo penguin;2019;1114
+BROW_2020_GENT;BROW;Brown Bluff;-56,905;-63,522;GENT;gentoo penguin;2020;1199
+BROW_2024_GENT;BROW;Brown Bluff;-56,905;-63,522;GENT;gentoo penguin;2024;1429
+BRPW_1987_CHIN;BRPW;Brimstone Peak (west);-57,763;-61,918;CHIN;chinstrap penguin;1987;6000
+BRYE_2012_GENT;BRYE;Bryde Island East;-62,927;-64,89;GENT;gentoo penguin;2012;741
+BRYE_2018_GENT;BRYE;Bryde Island East;-62,927;-64,89;GENT;gentoo penguin;2018;626
+BRYS_1987_GENT;BRYS;Bryde Island South;-62,951;-64,901;GENT;gentoo penguin;1987;550
+BRYS_2015_GENT;BRYS;Bryde Island South;-62,951;-64,901;GENT;gentoo penguin;2015;870
+BRYS_2018_GENT;BRYS;Bryde Island South;-62,951;-64,901;GENT;gentoo penguin;2018;905
+BSON_2009_EMPE;BSON;Brownson Islands;-103,48;-74,14;EMPE;emperor penguin;2009;5732
+BYEW_1987_CHIN;BYEW;Byewater Point;-61,502;-62,753;CHIN;chinstrap penguin;1987;700
+CAST_1987_CHIN;CAST;Castle Rock;-61,581;-62,789;CHIN;chinstrap penguin;1987;5000
+CCOE_1987_CHIN;CCOE;Cape Conway (east);-61,392;-62,834;CHIN;chinstrap penguin;1987;2500
+CCOE_2020_CHIN;CCOE;Cape Conway (east);-61,392;-62,834;CHIN;chinstrap penguin;2020;929
+CCOE_1987_GENT;CCOE;Cape Conway (east);-61,392;-62,834;GENT;gentoo penguin;1987;250
+CCOE_2020_GENT;CCOE;Cape Conway (east);-61,392;-62,834;GENT;gentoo penguin;2020;5898
+CHAL_2017_ADEL;CHAL;Cape Hallett;170,214;-72,318;ADEL;adelie penguin;2017;22075
+CHAL_2018_ADEL;CHAL;Cape Hallett;170,214;-72,318;ADEL;adelie penguin;2018;33968
+CHAL_2019_ADEL;CHAL;Cape Hallett;170,214;-72,318;ADEL;adelie penguin;2019;31969
+CHAP_1980_ADEL;CHAP;Chappel Island;110,419;-66,177;ADEL;adelie penguin;1980;2618
+CHAR_1977_ADEL;CHAR;Charcot Island;-75,407;-69,762;ADEL;adelie penguin;1977;50
+CHAR_1987_ADEL;CHAR;Charcot Island;-75,407;-69,762;ADEL;adelie penguin;1987;50
+CHII_1973_CHIN;CHII;Chinstrap Islet;163,317;-66,912;CHIN;chinstrap penguin;1973;20
+CHII_2014_CHIN;CHII;Chinstrap Islet;163,317;-66,912;CHIN;chinstrap penguin;2014;40
+CHIS_1986_ADEL;CHIS;Christine Island;-64,024;-64,795;ADEL;adelie penguin;1986;1455
+CHPT_2024_CHIN;CHPT;Charles Point;-61;-64,236;CHIN;chinstrap penguin;2024;1
+CHPT_2024_GENT;CHPT;Charles Point;-61;-64,236;GENT;gentoo penguin;2024;342
+CHRI_1983_ADEL;CHRI;Christoffersen Island;-45,035;-60,728;ADEL;adelie penguin;1983;378
+CIER_1993_GENT;CIER;Cierva Point;-60,96;-64,157;GENT;gentoo penguin;1993;1476
+CLIN_1987_CHIN;CLIN;Cape Lindsey;-55,48;-61,107;CHIN;chinstrap penguin;1987;120
+CMEL_1987_CHIN;CMEL;Cape Melville;-57,58;-62,022;CHIN;chinstrap penguin;1987;8500
+COBA_2024_CHIN;COBA;Cobalescou Island;-61,652;-64,179;CHIN;chinstrap penguin;2024;541
+CONW_1987_CHIN;CONW;Cape Conway;-61,422;-62,842;CHIN;chinstrap penguin;1987;400
+CONW_2020_CHIN;CONW;Cape Conway;-61,422;-62,842;CHIN;chinstrap penguin;2020;0
+CORM_1980_ADEL;CORM;Cormorant Island;-63,967;-64,794;ADEL;adelie penguin;1980;1093
+CORM_1981_ADEL;CORM;Cormorant Island;-63,967;-64,794;ADEL;adelie penguin;1981;1052
+CORM_1986_ADEL;CORM;Cormorant Island;-63,967;-64,794;ADEL;adelie penguin;1986;880
+COUL_1964_EMPE;COUL;Coulman Island;169,624;-73,348;EMPE;emperor penguin;1964;2100
+COUL_1983_EMPE;COUL;Coulman Island;169,624;-73,348;EMPE;emperor penguin;1983;43845
+COUL_1990_EMPE;COUL;Coulman Island;169,624;-73,348;EMPE;emperor penguin;1990;27920
+COUL_1992_EMPE;COUL;Coulman Island;169,624;-73,348;EMPE;emperor penguin;1992;34735
+COUL_1993_EMPE;COUL;Coulman Island;169,624;-73,348;EMPE;emperor penguin;1993;18767
+COUL_1994_EMPE;COUL;Coulman Island;169,624;-73,348;EMPE;emperor penguin;1994;20204
+COUL_1996_EMPE;COUL;Coulman Island;169,624;-73,348;EMPE;emperor penguin;1996;19471
+COUL_2005_EMPE;COUL;Coulman Island;169,624;-73,348;EMPE;emperor penguin;2005;49613
+COUL_2006_EMPE;COUL;Coulman Island;169,624;-73,348;EMPE;emperor penguin;2006;48189
+COUL_2007_EMPE;COUL;Coulman Island;169,624;-73,348;EMPE;emperor penguin;2007;36768
+COUL_2008_EMPE;COUL;Coulman Island;169,624;-73,348;EMPE;emperor penguin;2008;48477
+COUL_2009_EMPE;COUL;Coulman Island;169,624;-73,348;EMPE;emperor penguin;2009;25298
+COUL_2010_EMPE;COUL;Coulman Island;169,624;-73,348;EMPE;emperor penguin;2010;20653
+COUL_2011_EMPE;COUL;Coulman Island;169,624;-73,348;EMPE;emperor penguin;2011;39341
+COUL_2012_EMPE;COUL;Coulman Island;169,624;-73,348;EMPE;emperor penguin;2012;50672
+COUL_2018_EMPE;COUL;Coulman Island;169,624;-73,348;EMPE;emperor penguin;2018;19822
+CROZ_1968_EMPE;CROZ;Cape Crozier;169,32;-77,46;EMPE;emperor penguin;1968;711
+CROZ_1969_EMPE;CROZ;Cape Crozier;169,32;-77,46;EMPE;emperor penguin;1969;697
+CROZ_1974_EMPE;CROZ;Cape Crozier;169,32;-77,46;EMPE;emperor penguin;1974;256
+CROZ_1975_EMPE;CROZ;Cape Crozier;169,32;-77,46;EMPE;emperor penguin;1975;118
+CROZ_1977_EMPE;CROZ;Cape Crozier;169,32;-77,46;EMPE;emperor penguin;1977;40
+CROZ_1983_EMPE;CROZ;Cape Crozier;169,32;-77,46;EMPE;emperor penguin;1983;78
+CROZ_2000_EMPE;CROZ;Cape Crozier;169,32;-77,46;EMPE;emperor penguin;2000;1201
+CROZ_2001_EMPE;CROZ;Cape Crozier;169,32;-77,46;EMPE;emperor penguin;2001;0
+CROZ_2002_EMPE;CROZ;Cape Crozier;169,32;-77,46;EMPE;emperor penguin;2002;247
+CROZ_2003_EMPE;CROZ;Cape Crozier;169,32;-77,46;EMPE;emperor penguin;2003;612
+CROZ_2004_EMPE;CROZ;Cape Crozier;169,32;-77,46;EMPE;emperor penguin;2004;699
+CROZ_2005_EMPE;CROZ;Cape Crozier;169,32;-77,46;EMPE;emperor penguin;2005;437
+CROZ_2006_EMPE;CROZ;Cape Crozier;169,32;-77,46;EMPE;emperor penguin;2006;828
+CROZ_2007_EMPE;CROZ;Cape Crozier;169,32;-77,46;EMPE;emperor penguin;2007;1149
+CROZ_2008_EMPE;CROZ;Cape Crozier;169,32;-77,46;EMPE;emperor penguin;2008;990
+CROZ_2009_EMPE;CROZ;Cape Crozier;169,32;-77,46;EMPE;emperor penguin;2009;303
+CROZ_2010_EMPE;CROZ;Cape Crozier;169,32;-77,46;EMPE;emperor penguin;2010;1283
+CROZ_2011_EMPE;CROZ;Cape Crozier;169,32;-77,46;EMPE;emperor penguin;2011;1587
+CROZ_2012_EMPE;CROZ;Cape Crozier;169,32;-77,46;EMPE;emperor penguin;2012;2269
+CROZ_2018_EMPE;CROZ;Cape Crozier;169,32;-77,46;EMPE;emperor penguin;2018;3080
+CUVE_1986_CHIN;CUVE;Cuverville Island;-62,626;-64,684;CHIN;chinstrap penguin;1986;1
+CUVE_1986_GENT;CUVE;Cuverville Island;-62,626;-64,684;GENT;gentoo penguin;1986;3700
+CUVE_2010_GENT;CUVE;Cuverville Island;-62,626;-64,684;GENT;gentoo penguin;2010;9014
+CUVE_2010_KING;CUVE;Cuverville Island;-62,626;-64,684;KING;king penguin;2010;1
+DAMO_1987_GENT;DAMO;Dorian Bay/Damoy Point;-63,497;-64,815;GENT;gentoo penguin;1987;715
+DAMO_2006_GENT;DAMO;Dorian Bay/Damoy Point;-63,497;-64,815;GENT;gentoo penguin;2006;2990
+DAMO_2009_GENT;DAMO;Dorian Bay/Damoy Point;-63,497;-64,815;GENT;gentoo penguin;2009;4788
+DAMO_2010_GENT;DAMO;Dorian Bay/Damoy Point;-63,497;-64,815;GENT;gentoo penguin;2010;3371
+DAMO_2011_GENT;DAMO;Dorian Bay/Damoy Point;-63,497;-64,815;GENT;gentoo penguin;2011;1955
+DAMO_2012_GENT;DAMO;Dorian Bay/Damoy Point;-63,497;-64,815;GENT;gentoo penguin;2012;3345
+DAMO_2016_GENT;DAMO;Dorian Bay/Damoy Point;-63,497;-64,815;GENT;gentoo penguin;2016;929
+DAMO_2019_GENT;DAMO;Dorian Bay/Damoy Point;-63,497;-64,815;GENT;gentoo penguin;2019;351
+DAMO_2024_GENT;DAMO;Dorian Bay/Damoy Point;-63,497;-64,815;GENT;gentoo penguin;2024;3335
+DANC_1986_GENT;DANC;Danco Island;-62,594;-64,734;GENT;gentoo penguin;1986;1172
+DANC_2009_GENT;DANC;Danco Island;-62,594;-64,734;GENT;gentoo penguin;2009;3341
+DANC_2016_GENT;DANC;Danco Island;-62,594;-64,734;GENT;gentoo penguin;2016;6774
+DANC_2024_GENT;DANC;Danco Island;-62,594;-64,734;GENT;gentoo penguin;2024;2176
+DARB_2013_ADEL;DARB;Darbel Island;-65,9;-66,381;ADEL;adelie penguin;2013;522
+DARN_1961_EMPE;DARN;Flutter/Cape Darnley;69,696;-67,887;EMPE;emperor penguin;1961;5000
+DARN_2009_EMPE;DARN;Flutter/Cape Darnley;69,696;-67,887;EMPE;emperor penguin;2009;3465
+DAVE_1987_CHIN;DAVE;Davey Point;-58,53;-61,969;CHIN;chinstrap penguin;1987;25000
+DAVI_1960_ADEL;DAVI;Davis Island;108,444;-66,664;ADEL;adelie penguin;1960;550
+DAWS_1986_EMPE;DAWS;Dawson-Lambton;-26,648;-76,014;EMPE;emperor penguin;1986;11700
+DAWS_2009_EMPE;DAWS;Dawson-Lambton;-26,648;-76,014;EMPE;emperor penguin;2009;2597
+DBAY_2009_EMPE;DBAY;Davies Bay;158,492;-69,348;EMPE;emperor penguin;2009;1745
+DENI_1982_ADEL;DENI;Cape Denison;142,665;-67,007;ADEL;adelie penguin;1982;4898
+DEPT_1987_CHIN;DEPT;Devils Point;-61,159;-62,664;CHIN;chinstrap penguin;1987;5500
+DEPT_1987_GENT;DEPT;Devils Point;-61,159;-62,664;GENT;gentoo penguin;1987;2000
+DESO_1987_CHIN;DESO;Desolation Island;-60,347;-62,458;CHIN;chinstrap penguin;1987;18000
+DETA_1958_ADEL;DETA;Detaille Island;-66,787;-66,871;ADEL;adelie penguin;1958;400
+DETA_1986_ADEL;DETA;Detaille Island;-66,787;-66,871;ADEL;adelie penguin;1986;858
+DETA_2003_ADEL;DETA;Detaille Island;-66,787;-66,871;ADEL;adelie penguin;2003;925
+DETA_2009_ADEL;DETA;Detaille Island;-66,787;-66,871;ADEL;adelie penguin;2009;747
+DETA_2011_ADEL;DETA;Detaille Island;-66,787;-66,871;ADEL;adelie penguin;2011;998
+DETA_2014_ADEL;DETA;Detaille Island;-66,787;-66,871;ADEL;adelie penguin;2014;561
+DETA_2016_ADEL;DETA;Detaille Island;-66,787;-66,871;ADEL;adelie penguin;2016;510
+DETA_2018_ADEL;DETA;Detaille Island;-66,787;-66,871;ADEL;adelie penguin;2018;370
+DEVI_1996_ADEL;DEVI;Devil Island;-57,289;-63,799;ADEL;adelie penguin;1996;10320
+DEVI_2000_ADEL;DEVI;Devil Island;-57,289;-63,799;ADEL;adelie penguin;2000;14866
+DEVI_2002_ADEL;DEVI;Devil Island;-57,289;-63,799;ADEL;adelie penguin;2002;5880
+DEVI_2003_ADEL;DEVI;Devil Island;-57,289;-63,799;ADEL;adelie penguin;2003;8500
+DEVI_2007_ADEL;DEVI;Devil Island;-57,289;-63,799;ADEL;adelie penguin;2007;18000
+DEVI_2009_ADEL;DEVI;Devil Island;-57,289;-63,799;ADEL;adelie penguin;2009;20040
+DEVI_2011_ADEL;DEVI;Devil Island;-57,289;-63,799;ADEL;adelie penguin;2011;7108
+DEVI_2022_ADEL;DEVI;Devil Island;-57,289;-63,799;ADEL;adelie penguin;2022;11978
+DIBB_2009_EMPE;DIBB;Dibble Glacier;134,8;-66;EMPE;emperor penguin;2009;12476
+DOBE_2006_GENT;DOBE;Dorian Beacon;-63,511;-64,811;GENT;gentoo penguin;2006;257
+DOBE_2008_GENT;DOBE;Dorian Beacon;-63,511;-64,811;GENT;gentoo penguin;2008;247
+DOBE_2009_GENT;DOBE;Dorian Beacon;-63,511;-64,811;GENT;gentoo penguin;2009;320
+DOBE_2011_GENT;DOBE;Dorian Beacon;-63,511;-64,811;GENT;gentoo penguin;2011;104
+DOBE_2012_GENT;DOBE;Dorian Beacon;-63,511;-64,811;GENT;gentoo penguin;2012;249
+DOBE_2016_GENT;DOBE;Dorian Beacon;-63,511;-64,811;GENT;gentoo penguin;2016;82
+DOBE_2018_GENT;DOBE;Dorian Beacon;-63,511;-64,811;GENT;gentoo penguin;2018;264
+DOBE_2019_GENT;DOBE;Dorian Beacon;-63,511;-64,811;GENT;gentoo penguin;2019;50
+DOBE_2024_GENT;DOBE;Dorian Beacon;-63,511;-64,811;GENT;gentoo penguin;2024;429
+DOLL_2009_EMPE;DOLL;Dolleman;-60,421;-70,611;EMPE;emperor penguin;2009;1620
+DOWN_1982_ADEL;DOWN;Downshire Cliffs;170,592;-71,558;ADEL;adelie penguin;1982;4000
+DREA_1984_ADEL;DREA;Dream Island;-64,226;-64,725;ADEL;adelie penguin;1984;12000
+DRES_1986_EMPE;DRES;Drescher;-19,326;-72,826;EMPE;emperor penguin;1986;6600
+DRES_2009_EMPE;DRES;Drescher;-19,326;-72,826;EMPE;emperor penguin;2009;2305
+DREW_1987_CHIN;DREW;Dream Island West (Casey Islands);-64,254;-64,73;CHIN;chinstrap penguin;1987;68
+DUKE_1982_ADEL;DUKE;Duke of York Island;170,064;-71,624;ADEL;adelie penguin;1982;1750
+DUPT_1986_CHIN;DUPT;Duthiers Point;-62,818;-64,805;CHIN;chinstrap penguin;1986;137
+DURV_2006_GENT;DURV;d'Urville Monument;-56,294;-63,427;GENT;gentoo penguin;2006;671
+DUTH_1987_GENT;DUTH;Duthoit Point;-58,835;-62,307;GENT;gentoo penguin;1987;750
+EDEN_2022_ADEL;EDEN;Eden Rocks;-55,702;-63,495;ADEL;adelie penguin;2022;43709
+EDWA_1987_CHIN;EDWA;Edwards Point;-59,498;-62,463;CHIN;chinstrap penguin;1987;40
+EFAL_1987_GENT;EFAL;East side of False Bay;-60,317;-62,706;GENT;gentoo penguin;1987;50
+EGAR_1987_CHIN;EGAR;East 2-3 km of Cape Garry;-62,213;-63,355;CHIN;chinstrap penguin;1987;6000
+EIP2_2020_KING;EIP2;Elephant Island (north coast point 2);-55,087;-61,093;KING;king penguin;2020;1
+ELPT_1987_CHIN;ELPT;Elephant Point;-60,849;-62,687;CHIN;chinstrap penguin;1987;1500
+ELPT_1987_GENT;ELPT;Elephant Point;-60,849;-62,687;GENT;gentoo penguin;1987;500
+EMER_1987_CHIN;EMER;Emerald Cove;-57,682;-61,906;CHIN;chinstrap penguin;1987;200
+EMPE_1969_ADEL;EMPE;Emperor Island;-68,71;-67,865;ADEL;adelie penguin;1969;175
+EMPE_2013_ADEL;EMPE;Emperor Island;-68,71;-67,865;ADEL;adelie penguin;2013;1420
+EMPE_1948_EMPE;EMPE;Emperor Island;-68,71;-67,865;EMPE;emperor penguin;1948;70
+EMPE_1949_EMPE;EMPE;Emperor Island;-68,71;-67,865;EMPE;emperor penguin;1949;291
+EMPE_1957_EMPE;EMPE;Emperor Island;-68,71;-67,865;EMPE;emperor penguin;1957;125
+EMPE_1958_EMPE;EMPE;Emperor Island;-68,71;-67,865;EMPE;emperor penguin;1958;165
+EMPE_1963_EMPE;EMPE;Emperor Island;-68,71;-67,865;EMPE;emperor penguin;1963;175
+EMPE_1964_EMPE;EMPE;Emperor Island;-68,71;-67,865;EMPE;emperor penguin;1964;200
+EMPE_1966_EMPE;EMPE;Emperor Island;-68,71;-67,865;EMPE;emperor penguin;1966;375
+EMPE_1968_EMPE;EMPE;Emperor Island;-68,71;-67,865;EMPE;emperor penguin;1968;318
+EMPE_1969_EMPE;EMPE;Emperor Island;-68,71;-67,865;EMPE;emperor penguin;1969;200
+EMPE_1970_EMPE;EMPE;Emperor Island;-68,71;-67,865;EMPE;emperor penguin;1970;250
+EMPE_1977_EMPE;EMPE;Emperor Island;-68,71;-67,865;EMPE;emperor penguin;1977;500
+EMPE_1978_EMPE;EMPE;Emperor Island;-68,71;-67,865;EMPE;emperor penguin;1978;80
+EMPE_1999_EMPE;EMPE;Emperor Island;-68,71;-67,865;EMPE;emperor penguin;1999;31
+EMPE_2001_EMPE;EMPE;Emperor Island;-68,71;-67,865;EMPE;emperor penguin;2001;19
+ENTR_1987_CHIN;ENTR;Entrance Point;-60,557;-62,999;CHIN;chinstrap penguin;1987;4000
+ENTR_2006_CHIN;ENTR;Entrance Point;-60,557;-62,999;CHIN;chinstrap penguin;2006;736
+ENTR_2011_CHIN;ENTR;Entrance Point;-60,557;-62,999;CHIN;chinstrap penguin;2011;543
+ENTR_2015_CHIN;ENTR;Entrance Point;-60,557;-62,999;CHIN;chinstrap penguin;2015;1163
+ENTR_2016_CHIN;ENTR;Entrance Point;-60,557;-62,999;CHIN;chinstrap penguin;2016;1564
+ENTR_2017_CHIN;ENTR;Entrance Point;-60,557;-62,999;CHIN;chinstrap penguin;2017;1042
+ENTR_2018_CHIN;ENTR;Entrance Point;-60,557;-62,999;CHIN;chinstrap penguin;2018;873
+ENTR_1909_MACA;ENTR;Entrance Point;-60,557;-62,999;MACA;macaroni penguin;1909;50
+ENTR_1936_MACA;ENTR;Entrance Point;-60,557;-62,999;MACA;macaroni penguin;1936;0
+ENTR_2017_MACA;ENTR;Entrance Point;-60,557;-62,999;MACA;macaroni penguin;2017;1
+ENTR_2018_MACA;ENTR;Entrance Point;-60,557;-62,999;MACA;macaroni penguin;2018;1
+ENTW_2019_CHIN;ENTW;Entrance Point West;-60,562;-63,008;CHIN;chinstrap penguin;2019;3584
+EVEN_2013_ADEL;EVEN;Cape Evensen (mainland);-65,683;-66,164;ADEL;adelie penguin;2013;297
+EVER_2013_ADEL;EVER;Cape Evensen (offshore rocks);-65,72;-66,158;ADEL;adelie penguin;2013;223
+FARE_2019_CHIN;FARE;Farewell Rock;-61,018;-63,868;CHIN;chinstrap penguin;2019;91
+FILD_1987_CHIN;FILD;Fildes Peninsula (northwest side);-58,97;-62,173;CHIN;chinstrap penguin;1987;150
+FILD_2016_CHIN;FILD;Fildes Peninsula (northwest side);-58,97;-62,173;CHIN;chinstrap penguin;2016;229
+FISH_2003_ADEL;FISH;Fish Islands;-65,361;-66,028;ADEL;adelie penguin;2003;1634
+FISH_2008_ADEL;FISH;Fish Islands;-65,361;-66,028;ADEL;adelie penguin;2008;1653
+FISH_2009_ADEL;FISH;Fish Islands;-65,361;-66,028;ADEL;adelie penguin;2009;810
+FISH_2013_ADEL;FISH;Fish Islands;-65,361;-66,028;ADEL;adelie penguin;2013;1608
+FOLD_1977_EMPE;FOLD;Fold Island;59,316;-67,324;EMPE;emperor penguin;1977;450
+FOLD_1985_EMPE;FOLD;Fold Island;59,316;-67,324;EMPE;emperor penguin;1985;348
+FOLD_2009_EMPE;FOLD;Fold Island;59,316;-67,324;EMPE;emperor penguin;2009;213
+FORB_2008_ADEL;FORB;Forbes Glacier;62,286;-67,596;ADEL;adelie penguin;2008;2032
+FORT_1987_CHIN;FORT;Fort Point (Greenwich Island);-59,58;-62,542;CHIN;chinstrap penguin;1987;3500
+FORT_2019_CHIN;FORT;Fort Point (Greenwich Island);-59,58;-62,542;CHIN;chinstrap penguin;2019;1269
+FORT_1987_GENT;FORT;Fort Point (Greenwich Island);-59,58;-62,542;GENT;gentoo penguin;1987;250
+FORT_2019_GENT;FORT;Fort Point (Greenwich Island);-59,58;-62,542;GENT;gentoo penguin;2019;1333
+FORT_2019_MACA;FORT;Fort Point (Greenwich Island);-59,58;-62,542;MACA;macaroni penguin;2019;4
+FRAN_1964_EMPE;FRAN;Franklin Island;168,44;-76,187;EMPE;emperor penguin;1964;1700
+FRAN_1965_EMPE;FRAN;Franklin Island;168,44;-76,187;EMPE;emperor penguin;1965;250
+FRAN_1983_EMPE;FRAN;Franklin Island;168,44;-76,187;EMPE;emperor penguin;1983;4989
+FRAN_2000_EMPE;FRAN;Franklin Island;168,44;-76,187;EMPE;emperor penguin;2000;2915
+FRAN_2001_EMPE;FRAN;Franklin Island;168,44;-76,187;EMPE;emperor penguin;2001;3800
+FRAN_2003_EMPE;FRAN;Franklin Island;168,44;-76,187;EMPE;emperor penguin;2003;4422
+FRAN_2004_EMPE;FRAN;Franklin Island;168,44;-76,187;EMPE;emperor penguin;2004;10234
+FRAN_2005_EMPE;FRAN;Franklin Island;168,44;-76,187;EMPE;emperor penguin;2005;4426
+FRAN_2006_EMPE;FRAN;Franklin Island;168,44;-76,187;EMPE;emperor penguin;2006;17537
+FRAN_2007_EMPE;FRAN;Franklin Island;168,44;-76,187;EMPE;emperor penguin;2007;9320
+FRAN_2008_EMPE;FRAN;Franklin Island;168,44;-76,187;EMPE;emperor penguin;2008;7182
+FRAN_2009_EMPE;FRAN;Franklin Island;168,44;-76,187;EMPE;emperor penguin;2009;7561
+FRAN_2010_EMPE;FRAN;Franklin Island;168,44;-76,187;EMPE;emperor penguin;2010;7583
+FRAN_2011_EMPE;FRAN;Franklin Island;168,44;-76,187;EMPE;emperor penguin;2011;9413
+FRAN_2012_EMPE;FRAN;Franklin Island;168,44;-76,187;EMPE;emperor penguin;2012;10244
+FRPT_1987_CHIN;FRPT;False Round Point;-57,989;-61,898;CHIN;chinstrap penguin;1987;137500
+FYRC_1979_CHIN;FYRC;Fyr Channel;-45,669;-60,73;CHIN;chinstrap penguin;1979;1170
+FYRC_1978_CHIN;FYRC;Fyr Channel;-45,669;-60,73;CHIN;chinstrap penguin;1978;5416
+GALE_2017_GENT;GALE;Galindez Island East;-64,24;-65,248;GENT;gentoo penguin;2017;598
+GARY_1987_CHIN;GARY;Cape Garry;-62,258;-63,361;CHIN;chinstrap penguin;1987;200000
+GEOR_2006_CHIN;GEOR;Georges Point (Ronge Island);-62,67;-64,669;CHIN;chinstrap penguin;2006;399
+GEOR_2007_CHIN;GEOR;Georges Point (Ronge Island);-62,67;-64,669;CHIN;chinstrap penguin;2007;689
+GEOR_2008_CHIN;GEOR;Georges Point (Ronge Island);-62,67;-64,669;CHIN;chinstrap penguin;2008;338
+GEOR_2009_CHIN;GEOR;Georges Point (Ronge Island);-62,67;-64,669;CHIN;chinstrap penguin;2009;210
+GEOR_2015_CHIN;GEOR;Georges Point (Ronge Island);-62,67;-64,669;CHIN;chinstrap penguin;2015;332
+GEOR_2018_CHIN;GEOR;Georges Point (Ronge Island);-62,67;-64,669;CHIN;chinstrap penguin;2018;207
+GEOR_2009_GENT;GEOR;Georges Point (Ronge Island);-62,67;-64,669;GENT;gentoo penguin;2009;2104
+GEOR_2018_GENT;GEOR;Georges Point (Ronge Island);-62,67;-64,669;GENT;gentoo penguin;2018;3472
+GERL_2020_ADEL;GERL;Gerlache Island;-64,214;-64,601;ADEL;adelie penguin;2020;71
+GERL_2020_CHIN;GERL;Gerlache Island;-64,214;-64,601;CHIN;chinstrap penguin;2020;2577
+GERL_1979_GENT;GERL;Gerlache Island;-64,214;-64,601;GENT;gentoo penguin;1979;2000
+GERL_2020_GENT;GERL;Gerlache Island;-64,214;-64,601;GENT;gentoo penguin;2020;2781
+GIBB_2004_CHIN;GIBB;Gibbs Island;-55,639;-61,471;CHIN;chinstrap penguin;2004;80000
+GING_1969_ADEL;GING;Ginger Island;-68,686;-67,749;ADEL;adelie penguin;1969;600
+GING_1983_ADEL;GING;Ginger Island;-68,686;-67,749;ADEL;adelie penguin;1983;2790
+GING_2013_ADEL;GING;Ginger Island;-68,686;-67,749;ADEL;adelie penguin;2013;3335
+GLAN_2009_GENT;GLAN;Glandaz Point;-63,959;-65,091;GENT;gentoo penguin;2009;38
+GOPT_1997_ADEL;GOPT;Gourlay Point;-45,586;-60,731;ADEL;adelie penguin;1997;2125
+GOPT_1998_ADEL;GOPT;Gourlay Point;-45,586;-60,731;ADEL;adelie penguin;1998;2176
+GOPT_1999_ADEL;GOPT;Gourlay Point;-45,586;-60,731;ADEL;adelie penguin;1999;2710
+GOPT_2000_ADEL;GOPT;Gourlay Point;-45,586;-60,731;ADEL;adelie penguin;2000;519
+GOPT_2001_ADEL;GOPT;Gourlay Point;-45,586;-60,731;ADEL;adelie penguin;2001;1804
+GOPT_1997_CHIN;GOPT;Gourlay Point;-45,586;-60,731;CHIN;chinstrap penguin;1997;1708
+GOPT_1998_CHIN;GOPT;Gourlay Point;-45,586;-60,731;CHIN;chinstrap penguin;1998;562
+GOPT_1999_CHIN;GOPT;Gourlay Point;-45,586;-60,731;CHIN;chinstrap penguin;1999;1944
+GOPT_2000_CHIN;GOPT;Gourlay Point;-45,586;-60,731;CHIN;chinstrap penguin;2000;1037
+GOPT_2001_CHIN;GOPT;Gourlay Point;-45,586;-60,731;CHIN;chinstrap penguin;2001;1551
+GOSL_1984_ADEL;GOSL;Gosling Islands;-45,924;-60,642;ADEL;adelie penguin;1984;8523
+GOUL_2009_EMPE;GOUL;Gould;-47,656;-77,71;EMPE;emperor penguin;2009;8242
+GREE_2020_GENT;GREE;The Green Glen;-55,266;-61,271;GENT;gentoo penguin;2020;330
+GREE_2020_KING;GREE;The Green Glen;-55,266;-61,271;KING;king penguin;2020;1
+GREI_2024_GENT;GREI;Green Island;-64,149;-65,324;GENT;gentoo penguin;2024;82
+GUES_2020_CHIN;GUES;Guesalaga Island;-61,982;-64,275;CHIN;chinstrap penguin;2020;6
+GUNN_1975_EMPE;GUNN;Gunnerus;34,382;-68,763;EMPE;emperor penguin;1975;5750
+GUNN_1990_EMPE;GUNN;Gunnerus;34,382;-68,763;EMPE;emperor penguin;1990;7000
+GUNN_2009_EMPE;GUNN;Gunnerus;34,382;-68,763;EMPE;emperor penguin;2009;4652
+HALF_1987_CHIN;HALF;Half Moon Island;-59,918;-62,596;CHIN;chinstrap penguin;1987;6000
+HALF_2009_CHIN;HALF;Half Moon Island;-59,918;-62,596;CHIN;chinstrap penguin;2009;2263
+HALF_2011_CHIN;HALF;Half Moon Island;-59,918;-62,596;CHIN;chinstrap penguin;2011;3620
+HALF_2015_CHIN;HALF;Half Moon Island;-59,918;-62,596;CHIN;chinstrap penguin;2015;1696
+HALF_2017_CHIN;HALF;Half Moon Island;-59,918;-62,596;CHIN;chinstrap penguin;2017;2749
+HALF_2022_CHIN;HALF;Half Moon Island;-59,918;-62,596;CHIN;chinstrap penguin;2022;1119
+HALF_2024_CHIN;HALF;Half Moon Island;-59,918;-62,596;CHIN;chinstrap penguin;2024;1393
+HALF_2011_MACA;HALF;Half Moon Island;-59,918;-62,596;MACA;macaroni penguin;2011;1
+HALF_2017_MACA;HALF;Half Moon Island;-59,918;-62,596;MACA;macaroni penguin;2017;2
+HALF_2019_MACA;HALF;Half Moon Island;-59,918;-62,596;MACA;macaroni penguin;2019;3
+HALF_2024_MACA;HALF;Half Moon Island;-59,918;-62,596;MACA;macaroni penguin;2024;1
+HALY_1977_EMPE;HALY;Halley;-27,43;-75,54;EMPE;emperor penguin;1977;14700
+HALY_1983_EMPE;HALY;Halley;-27,43;-75,54;EMPE;emperor penguin;1983;25000
+HALY_1986_EMPE;HALY;Halley;-27,43;-75,54;EMPE;emperor penguin;1986;15700
+HALY_1987_EMPE;HALY;Halley;-27,43;-75,54;EMPE;emperor penguin;1987;14300
+HALY_2009_EMPE;HALY;Halley;-27,43;-75,54;EMPE;emperor penguin;2009;22510
+HANE_1987_GENT;HANE;Hannah Point East;-60,585;-62,651;GENT;gentoo penguin;1987;175
+HANE_2020_GENT;HANE;Hannah Point East;-60,585;-62,651;GENT;gentoo penguin;2020;3812
+HANN_1987_CHIN;HANN;Hannah Point;-60,613;-62,654;CHIN;chinstrap penguin;1987;2500
+HANN_1995_CHIN;HANN;Hannah Point;-60,613;-62,654;CHIN;chinstrap penguin;1995;1033
+HANN_2000_CHIN;HANN;Hannah Point;-60,613;-62,654;CHIN;chinstrap penguin;2000;2736
+HANN_2011_CHIN;HANN;Hannah Point;-60,613;-62,654;CHIN;chinstrap penguin;2011;874
+HANN_2012_CHIN;HANN;Hannah Point;-60,613;-62,654;CHIN;chinstrap penguin;2012;1017
+HANN_2015_CHIN;HANN;Hannah Point;-60,613;-62,654;CHIN;chinstrap penguin;2015;1134
+HANN_2016_CHIN;HANN;Hannah Point;-60,613;-62,654;CHIN;chinstrap penguin;2016;773
+HANN_2020_CHIN;HANN;Hannah Point;-60,613;-62,654;CHIN;chinstrap penguin;2020;975
+HANN_1987_GENT;HANN;Hannah Point;-60,613;-62,654;GENT;gentoo penguin;1987;50
+HANN_2011_GENT;HANN;Hannah Point;-60,613;-62,654;GENT;gentoo penguin;2011;2520
+HANN_2014_GENT;HANN;Hannah Point;-60,613;-62,654;GENT;gentoo penguin;2014;3168
+HANN_2016_GENT;HANN;Hannah Point;-60,613;-62,654;GENT;gentoo penguin;2016;2820
+HANN_2020_GENT;HANN;Hannah Point;-60,613;-62,654;GENT;gentoo penguin;2020;3518
+HANN_1995_MACA;HANN;Hannah Point;-60,613;-62,654;MACA;macaroni penguin;1995;3
+HANN_1996_MACA;HANN;Hannah Point;-60,613;-62,654;MACA;macaroni penguin;1996;4
+HANN_1997_MACA;HANN;Hannah Point;-60,613;-62,654;MACA;macaroni penguin;1997;0
+HANN_2000_MACA;HANN;Hannah Point;-60,613;-62,654;MACA;macaroni penguin;2000;10
+HANN_2004_MACA;HANN;Hannah Point;-60,613;-62,654;MACA;macaroni penguin;2004;4
+HANN_2011_MACA;HANN;Hannah Point;-60,613;-62,654;MACA;macaroni penguin;2011;2
+HANN_2010_MACA;HANN;Hannah Point;-60,613;-62,654;MACA;macaroni penguin;2010;0
+HANN_2012_MACA;HANN;Hannah Point;-60,613;-62,654;MACA;macaroni penguin;2012;4
+HARE_1987_CHIN;HARE;Harmony Point (east);-59,186;-62,268;CHIN;chinstrap penguin;1987;1750
+HARM_1987_CHIN;HARM;Harmony Point;-59,242;-62,306;CHIN;chinstrap penguin;1987;300000
+HASW_1979_ADEL;HASW;Haswell Island;93,008;-66,531;ADEL;adelie penguin;1979;11300
+HASW_1962_EMPE;HASW;Haswell Island;93,008;-66,531;EMPE;emperor penguin;1962;9000
+HASW_1970_EMPE;HASW;Haswell Island;93,008;-66,531;EMPE;emperor penguin;1970;17000
+HASW_2009_EMPE;HASW;Haswell Island;93,008;-66,531;EMPE;emperor penguin;2009;3247
+HENR_1960_ADEL;HENR;Henry Islands;120,621;-66,878;ADEL;adelie penguin;1960;34
+HERO_2006_GENT;HERO;Heroina Island;-54,608;-63,394;GENT;gentoo penguin;2006;142
+HERO_2009_GENT;HERO;Heroina Island;-54,608;-63,394;GENT;gentoo penguin;2009;173
+HINO_1972_ADEL;HINO;Cape Hinode;42,661;-68,145;ADEL;adelie penguin;1972;167
+HINO_1973_ADEL;HINO;Cape Hinode;42,661;-68,145;ADEL;adelie penguin;1973;139
+HINO_1981_ADEL;HINO;Cape Hinode;42,661;-68,145;ADEL;adelie penguin;1981;370
+HINO_1984_ADEL;HINO;Cape Hinode;42,661;-68,145;ADEL;adelie penguin;1984;433
+HOLD_2013_ADEL;HOLD;Holdfast Point (mainland and offshore rocks);-66,587;-66,792;ADEL;adelie penguin;2013;721
+HOOK_1987_CHIN;HOOK;Cape Hooker;-61,963;-63,334;CHIN;chinstrap penguin;1987;17500
+HORS_1987_CHIN;HORS;Cape Hooker Rock (south);-61,982;-63,345;CHIN;chinstrap penguin;1987;4500
+HOVG_2018_GENT;HOVG;Hovgaard Island;-64,126;-65,131;GENT;gentoo penguin;2018;2301
+HPNE_1987_CHIN;HPNE;Hall Peninsula (northeast);-61,241;-62,769;CHIN;chinstrap penguin;1987;3000
+HPNE_2020_CHIN;HPNE;Hall Peninsula (northeast);-61,241;-62,769;CHIN;chinstrap penguin;2020;1513
+HPNE_2022_MACA;HPNE;Hall Peninsula (northeast);-61,241;-62,769;MACA;macaroni penguin;2022;5
+HPSW_1987_CHIN;HPSW;Hall Peninsula (southwest);-61,244;-62,775;CHIN;chinstrap penguin;1987;2000
+HPSW_2020_CHIN;HPSW;Hall Peninsula (southwest);-61,244;-62,775;CHIN;chinstrap penguin;2020;1029
+HPSW_2022_CHIN;HPSW;Hall Peninsula (southwest);-61,244;-62,775;CHIN;chinstrap penguin;2022;694
+HPSW_2022_MACA;HPSW;Hall Peninsula (southwest);-61,244;-62,775;MACA;macaroni penguin;2022;5
+HUKU_1973_ADEL;HUKU;Hukuro Cove;39,629;-69,213;ADEL;adelie penguin;1973;130
+HUKU_1975_ADEL;HUKU;Hukuro Cove;39,629;-69,213;ADEL;adelie penguin;1975;142
+HUKU_1981_ADEL;HUKU;Hukuro Cove;39,629;-69,213;ADEL;adelie penguin;1981;277
+HUKU_1982_ADEL;HUKU;Hukuro Cove;39,629;-69,213;ADEL;adelie penguin;1982;480
+HUKU_1984_ADEL;HUKU;Hukuro Cove;39,629;-69,213;ADEL;adelie penguin;1984;500
+HUKU_1985_ADEL;HUKU;Hukuro Cove;39,629;-69,213;ADEL;adelie penguin;1985;426
+HUKU_1986_ADEL;HUKU;Hukuro Cove;39,629;-69,213;ADEL;adelie penguin;1986;520
+HUKU_1988_ADEL;HUKU;Hukuro Cove;39,629;-69,213;ADEL;adelie penguin;1988;750
+HUKU_1989_ADEL;HUKU;Hukuro Cove;39,629;-69,213;ADEL;adelie penguin;1989;439
+HUKU_1990_ADEL;HUKU;Hukuro Cove;39,629;-69,213;ADEL;adelie penguin;1990;479
+HUKU_1991_ADEL;HUKU;Hukuro Cove;39,629;-69,213;ADEL;adelie penguin;1991;352
+HUKU_1993_ADEL;HUKU;Hukuro Cove;39,629;-69,213;ADEL;adelie penguin;1993;390
+HUKU_1994_ADEL;HUKU;Hukuro Cove;39,629;-69,213;ADEL;adelie penguin;1994;309
+HUKU_1995_ADEL;HUKU;Hukuro Cove;39,629;-69,213;ADEL;adelie penguin;1995;388
+HUKU_1996_ADEL;HUKU;Hukuro Cove;39,629;-69,213;ADEL;adelie penguin;1996;350
+HUKU_1997_ADEL;HUKU;Hukuro Cove;39,629;-69,213;ADEL;adelie penguin;1997;366
+HUKU_1998_ADEL;HUKU;Hukuro Cove;39,629;-69,213;ADEL;adelie penguin;1998;371
+HUKU_1999_ADEL;HUKU;Hukuro Cove;39,629;-69,213;ADEL;adelie penguin;1999;382
+HUKU_2000_ADEL;HUKU;Hukuro Cove;39,629;-69,213;ADEL;adelie penguin;2000;387
+HUKU_2001_ADEL;HUKU;Hukuro Cove;39,629;-69,213;ADEL;adelie penguin;2001;367
+HUKU_2002_ADEL;HUKU;Hukuro Cove;39,629;-69,213;ADEL;adelie penguin;2002;392
+HUKU_2003_ADEL;HUKU;Hukuro Cove;39,629;-69,213;ADEL;adelie penguin;2003;362
+HUKU_2004_ADEL;HUKU;Hukuro Cove;39,629;-69,213;ADEL;adelie penguin;2004;400
+HUKU_2011_ADEL;HUKU;Hukuro Cove;39,629;-69,213;ADEL;adelie penguin;2011;37
+HUKU_2012_ADEL;HUKU;Hukuro Cove;39,629;-69,213;ADEL;adelie penguin;2012;88
+HUKU_2013_ADEL;HUKU;Hukuro Cove;39,629;-69,213;ADEL;adelie penguin;2013;219
+HUKU_2017_ADEL;HUKU;Hukuro Cove;39,629;-69,213;ADEL;adelie penguin;2017;143
+HUMB_1980_ADEL;HUMB;Humble Island;-64,088;-64,765;ADEL;adelie penguin;1980;2420
+HUMB_1981_ADEL;HUMB;Humble Island;-64,088;-64,765;ADEL;adelie penguin;1981;4076
+HUMB_1986_ADEL;HUMB;Humble Island;-64,088;-64,765;ADEL;adelie penguin;1986;2683
+HUTB_2020_GENT;HUTB;Hut Bluff;-55,14;-61,219;GENT;gentoo penguin;2020;558
+HUTB_2020_KING;HUTB;Hut Bluff;-55,14;-61,219;KING;king penguin;2020;2
+HYDR_2008_CHIN;HYDR;Hydrurga Rocks;-61,626;-64,145;CHIN;chinstrap penguin;2008;627
+INEX_1963_ADEL;INEX;Inexpressible Island;163,729;-74,901;ADEL;adelie penguin;1963;11000
+INEX_2019_ADEL;INEX;Inexpressible Island;163,729;-74,901;ADEL;adelie penguin;2019;28362
+IVAN_2009_ADEL;IVAN;Ivanhoff Head;109,128;-66,88;ADEL;adelie penguin;2009;6130
+JACO_2020_GENT;JACO;Jacobs Ladder;-54,737;-61,152;GENT;gentoo penguin;2020;2580
+JAME_1987_CHIN;JAME;Cape James;-62,698;-63,09;CHIN;chinstrap penguin;1987;10000
+JONA_1996_GENT;JONA;Jonassen Island;-56,683;-63,542;GENT;gentoo penguin;1996;234
+JONA_2009_GENT;JONA;Jonassen Island;-56,683;-63,542;GENT;gentoo penguin;2009;25
+JOUB_1981_ADEL;JOUB;Joubin Islands;-64,399;-64,774;ADEL;adelie penguin;1981;408
+JOUB_1984_ADEL;JOUB;Joubin Islands;-64,399;-64,774;ADEL;adelie penguin;1984;330
+JOUB_1980_CHIN;JOUB;Joubin Islands;-64,399;-64,774;CHIN;chinstrap penguin;1980;23
+JOUB_1987_CHIN;JOUB;Joubin Islands;-64,399;-64,774;CHIN;chinstrap penguin;1987;15
+JOUB_1981_GENT;JOUB;Joubin Islands;-64,399;-64,774;GENT;gentoo penguin;1981;59
+JOUB_1987_GENT;JOUB;Joubin Islands;-64,399;-64,774;GENT;gentoo penguin;1987;97
+JOUG_1998_GENT;JOUG;Jougla Point;-63,493;-64,827;GENT;gentoo penguin;1998;2206
+JOUG_2000_GENT;JOUG;Jougla Point;-63,493;-64,827;GENT;gentoo penguin;2000;1793
+JOUG_2003_GENT;JOUG;Jougla Point;-63,493;-64,827;GENT;gentoo penguin;2003;1621
+JOUG_2004_GENT;JOUG;Jougla Point;-63,493;-64,827;GENT;gentoo penguin;2004;2043
+JOUG_2006_GENT;JOUG;Jougla Point;-63,493;-64,827;GENT;gentoo penguin;2006;1925
+JOUG_2007_GENT;JOUG;Jougla Point;-63,493;-64,827;GENT;gentoo penguin;2007;1684
+JOUG_2008_GENT;JOUG;Jougla Point;-63,493;-64,827;GENT;gentoo penguin;2008;1666
+JOUG_2009_GENT;JOUG;Jougla Point;-63,493;-64,827;GENT;gentoo penguin;2009;3266
+JOUG_2010_GENT;JOUG;Jougla Point;-63,493;-64,827;GENT;gentoo penguin;2010;1980
+JOUG_2011_GENT;JOUG;Jougla Point;-63,493;-64,827;GENT;gentoo penguin;2011;1336
+JOUG_2012_GENT;JOUG;Jougla Point;-63,493;-64,827;GENT;gentoo penguin;2012;1773
+JOUG_2015_GENT;JOUG;Jougla Point;-63,493;-64,827;GENT;gentoo penguin;2015;1708
+JOUG_2018_GENT;JOUG;Jougla Point;-63,493;-64,827;GENT;gentoo penguin;2018;1319
+JOUG_2024_GENT;JOUG;Jougla Point;-63,493;-64,827;GENT;gentoo penguin;2024;1575
+JPTI_1987_CHIN;JPTI;Jameson Point Islands;-62,248;-63,331;CHIN;chinstrap penguin;1987;2750
+JPTS_1987_CHIN;JPTS;Jameson Point (south);-62,252;-63,308;CHIN;chinstrap penguin;1987;1500
+JPTV_1987_CHIN;JPTV;Jameson Point (vicinity);-62,258;-63,296;CHIN;chinstrap penguin;1987;55000
+KELL_1987_CHIN;KELL;Kellick Island;-58,393;-61,919;CHIN;chinstrap penguin;1987;40000
+KETL_2024_CHIN;KETL;Ketley Point;-62,763;-64,707;CHIN;chinstrap penguin;2024;571
+KETL_2024_GENT;KETL;Ketley Point;-62,763;-64,707;GENT;gentoo penguin;2024;1200
+KITC_1987_CHIN;KITC;Kitchen Point;-59,347;-62,387;CHIN;chinstrap penguin;1987;2500
+KLOA_1977_EMPE;KLOA;Kloa Point;57,278;-66,641;EMPE;emperor penguin;1977;3050
+KLOA_1985_EMPE;KLOA;Kloa Point;57,278;-66,641;EMPE;emperor penguin;1985;4500
+KLOA_2009_EMPE;KLOA;Kloa Point;57,278;-66,641;EMPE;emperor penguin;2009;3283
+KUZI_1975_ADEL;KUZI;Kuzira Point;38,267;-69,6;ADEL;adelie penguin;1975;24
+KUZI_1981_ADEL;KUZI;Kuzira Point;38,267;-69,6;ADEL;adelie penguin;1981;0
+KUZI_1984_ADEL;KUZI;Kuzira Point;38,267;-69,6;ADEL;adelie penguin;1984;7
+LAGO_1940_ADEL;LAGO;Lagotellerie Island;-67,402;-67,887;ADEL;adelie penguin;1940;750
+LAGO_1948_ADEL;LAGO;Lagotellerie Island;-67,402;-67,887;ADEL;adelie penguin;1948;1750
+LAGO_1959_ADEL;LAGO;Lagotellerie Island;-67,402;-67,887;ADEL;adelie penguin;1959;1100
+LAGO_1960_ADEL;LAGO;Lagotellerie Island;-67,402;-67,887;ADEL;adelie penguin;1960;1000
+LAGO_1983_ADEL;LAGO;Lagotellerie Island;-67,402;-67,887;ADEL;adelie penguin;1983;1720
+LAGO_2013_ADEL;LAGO;Lagotellerie Island;-67,402;-67,887;ADEL;adelie penguin;2013;7483
+LAIR_1987_CHIN;LAIR;Lair Point;-61,035;-62,615;CHIN;chinstrap penguin;1987;50
+LAIR_1987_GENT;LAIR;Lair Point;-61,035;-62,615;GENT;gentoo penguin;1987;200
+LAZA_2009_EMPE;LAZA;Lazarev;15,549;-69,75;EMPE;emperor penguin;2009;821
+LEDD_2009_EMPE;LEDD;Ledda Bay;-130,96;-74,42;EMPE;emperor penguin;2009;0
+LION_1957_ADEL;LION;Lions Rump;-58,123;-62,133;ADEL;adelie penguin;1957;5000
+LION_1960_ADEL;LION;Lions Rump;-58,123;-62,133;ADEL;adelie penguin;1960;10000
+LION_1966_ADEL;LION;Lions Rump;-58,123;-62,133;ADEL;adelie penguin;1966;8400
+LION_1987_CHIN;LION;Lions Rump;-58,123;-62,133;CHIN;chinstrap penguin;1987;400
+LION_1987_GENT;LION;Lions Rump;-58,123;-62,133;GENT;gentoo penguin;1987;3000
+LITC_1980_ADEL;LITC;Litchfield Island;-64,092;-64,771;ADEL;adelie penguin;1980;673
+LITC_1981_ADEL;LITC;Litchfield Island;-64,092;-64,771;ADEL;adelie penguin;1981;881
+LITC_1986_ADEL;LITC;Litchfield Island;-64,092;-64,771;ADEL;adelie penguin;1986;550
+LLAN_2010_ADEL;LLAN;Llano Point;-58,446;-62,176;ADEL;adelie penguin;2010;732
+LLAN_2011_ADEL;LLAN;Llano Point;-58,446;-62,176;ADEL;adelie penguin;2011;2755
+LLAN_2014_ADEL;LLAN;Llano Point;-58,446;-62,176;ADEL;adelie penguin;2014;3627
+LLAN_2010_GENT;LLAN;Llano Point;-58,446;-62,176;GENT;gentoo penguin;2010;2109
+LLAN_2011_GENT;LLAN;Llano Point;-58,446;-62,176;GENT;gentoo penguin;2011;5773
+LLAN_2014_GENT;LLAN;Llano Point;-58,446;-62,176;GENT;gentoo penguin;2014;6595
+LLAN_1990_MACA;LLAN;Llano Point;-58,446;-62,176;MACA;macaroni penguin;1990;2
+LOCK_1997_GENT;LOCK;Port Lockroy;-63,494;-64,825;GENT;gentoo penguin;1997;920
+LOCK_1998_GENT;LOCK;Port Lockroy;-63,494;-64,825;GENT;gentoo penguin;1998;1015
+LOCK_1999_GENT;LOCK;Port Lockroy;-63,494;-64,825;GENT;gentoo penguin;1999;606
+LOCK_2000_GENT;LOCK;Port Lockroy;-63,494;-64,825;GENT;gentoo penguin;2000;875
+LOCK_2001_GENT;LOCK;Port Lockroy;-63,494;-64,825;GENT;gentoo penguin;2001;1169
+LOCK_2002_GENT;LOCK;Port Lockroy;-63,494;-64,825;GENT;gentoo penguin;2002;111
+LOCK_2003_GENT;LOCK;Port Lockroy;-63,494;-64,825;GENT;gentoo penguin;2003;1163
+LOCK_2005_GENT;LOCK;Port Lockroy;-63,494;-64,825;GENT;gentoo penguin;2005;691
+LOCK_2006_GENT;LOCK;Port Lockroy;-63,494;-64,825;GENT;gentoo penguin;2006;866
+LOCK_2007_GENT;LOCK;Port Lockroy;-63,494;-64,825;GENT;gentoo penguin;2007;736
+LOCK_2009_GENT;LOCK;Port Lockroy;-63,494;-64,825;GENT;gentoo penguin;2009;665
+LOCK_2010_GENT;LOCK;Port Lockroy;-63,494;-64,825;GENT;gentoo penguin;2010;1731
+LOCK_2011_GENT;LOCK;Port Lockroy;-63,494;-64,825;GENT;gentoo penguin;2011;1126
+LOCK_2012_GENT;LOCK;Port Lockroy;-63,494;-64,825;GENT;gentoo penguin;2012;1414
+LOCK_2013_GENT;LOCK;Port Lockroy;-63,494;-64,825;GENT;gentoo penguin;2013;1585
+LOCK_2014_GENT;LOCK;Port Lockroy;-63,494;-64,825;GENT;gentoo penguin;2014;1159
+LOCK_2015_GENT;LOCK;Port Lockroy;-63,494;-64,825;GENT;gentoo penguin;2015;617
+LOCK_2018_GENT;LOCK;Port Lockroy;-63,494;-64,825;GENT;gentoo penguin;2018;610
+LOOK_2010_GENT;LOOK;Cape Lookout;-55,205;-61,278;GENT;gentoo penguin;2010;345
+LOUB_2009_GENT;LOUB;Loubat Point;-63,926;-65,078;GENT;gentoo penguin;2009;102
+LOWT_2008_ADEL;LOWT;Low Tongue;61,991;-67,546;ADEL;adelie penguin;2008;4455
+LUIT_2009_EMPE;LUIT;Luitpold;-33,552;-77,271;EMPE;emperor penguin;2009;6498
+MACK_1983_ADEL;MACK;MacKellar Islands;142,65;-66,967;ADEL;adelie penguin;1983;27260
+MADD_2005_GENT;MADD;Madder Cliff (Joinville Island);-56,483;-63,299;GENT;gentoo penguin;2005;455
+MADD_2016_GENT;MADD;Madder Cliff (Joinville Island);-56,483;-63,299;GENT;gentoo penguin;2016;621
+MALL_2011_ADEL;MALL;Mallory Point;108,643;-66,83;ADEL;adelie penguin;2011;4621
+MAME_1970_ADEL;MAME;Mame-zima;39,479;-69,025;ADEL;adelie penguin;1970;63
+MAME_1972_ADEL;MAME;Mame-zima;39,479;-69,025;ADEL;adelie penguin;1972;43
+MAME_1975_ADEL;MAME;Mame-zima;39,479;-69,025;ADEL;adelie penguin;1975;21
+MAME_1977_ADEL;MAME;Mame-zima;39,479;-69,025;ADEL;adelie penguin;1977;21
+MAME_1978_ADEL;MAME;Mame-zima;39,479;-69,025;ADEL;adelie penguin;1978;15
+MAME_1980_ADEL;MAME;Mame-zima;39,479;-69,025;ADEL;adelie penguin;1980;24
+MAME_1981_ADEL;MAME;Mame-zima;39,479;-69,025;ADEL;adelie penguin;1981;70
+MAME_1982_ADEL;MAME;Mame-zima;39,479;-69,025;ADEL;adelie penguin;1982;60
+MAME_1983_ADEL;MAME;Mame-zima;39,479;-69,025;ADEL;adelie penguin;1983;53
+MAME_1984_ADEL;MAME;Mame-zima;39,479;-69,025;ADEL;adelie penguin;1984;53
+MAME_1985_ADEL;MAME;Mame-zima;39,479;-69,025;ADEL;adelie penguin;1985;53
+MAME_1986_ADEL;MAME;Mame-zima;39,479;-69,025;ADEL;adelie penguin;1986;68
+MAME_1987_ADEL;MAME;Mame-zima;39,479;-69,025;ADEL;adelie penguin;1987;72
+MAME_1988_ADEL;MAME;Mame-zima;39,479;-69,025;ADEL;adelie penguin;1988;175
+MAME_1989_ADEL;MAME;Mame-zima;39,479;-69,025;ADEL;adelie penguin;1989;123
+MAME_1990_ADEL;MAME;Mame-zima;39,479;-69,025;ADEL;adelie penguin;1990;126
+MAME_1991_ADEL;MAME;Mame-zima;39,479;-69,025;ADEL;adelie penguin;1991;139
+MAME_1992_ADEL;MAME;Mame-zima;39,479;-69,025;ADEL;adelie penguin;1992;180
+MAME_1993_ADEL;MAME;Mame-zima;39,479;-69,025;ADEL;adelie penguin;1993;133
+MAME_1994_ADEL;MAME;Mame-zima;39,479;-69,025;ADEL;adelie penguin;1994;115
+MAME_1995_ADEL;MAME;Mame-zima;39,479;-69,025;ADEL;adelie penguin;1995;106
+MAME_1996_ADEL;MAME;Mame-zima;39,479;-69,025;ADEL;adelie penguin;1996;93
+MAME_1997_ADEL;MAME;Mame-zima;39,479;-69,025;ADEL;adelie penguin;1997;157
+MAME_1998_ADEL;MAME;Mame-zima;39,479;-69,025;ADEL;adelie penguin;1998;184
+MAME_1999_ADEL;MAME;Mame-zima;39,479;-69,025;ADEL;adelie penguin;1999;204
+MAME_2000_ADEL;MAME;Mame-zima;39,479;-69,025;ADEL;adelie penguin;2000;237
+MAME_2001_ADEL;MAME;Mame-zima;39,479;-69,025;ADEL;adelie penguin;2001;220
+MAME_2002_ADEL;MAME;Mame-zima;39,479;-69,025;ADEL;adelie penguin;2002;361
+MAME_2003_ADEL;MAME;Mame-zima;39,479;-69,025;ADEL;adelie penguin;2003;473
+MAME_2004_ADEL;MAME;Mame-zima;39,479;-69,025;ADEL;adelie penguin;2004;621
+MARI_1978_CHIN;MARI;Mariholm;-45,693;-60,746;CHIN;chinstrap penguin;1978;4149
+MBNE_1987_CHIN;MBNE;Miers Bluff Cove (northeast);-60,381;-62,701;CHIN;chinstrap penguin;1987;200
+MBNW_1987_CHIN;MBNW;Miers Bluff (northwest);-60,431;-62,716;CHIN;chinstrap penguin;1987;80
+MBNW_1987_GENT;MBNW;Miers Bluff (northwest);-60,431;-62,716;GENT;gentoo penguin;1987;20
+MEDL_2022_ADEL;MEDL;Medley Rocks;-56,023;-62,997;ADEL;adelie penguin;2022;4563
+MEDL_2022_GENT;MEDL;Medley Rocks;-56,023;-62,997;GENT;gentoo penguin;2022;1658
+MEHO_1985_ADEL;MEHO;Meholmen Island;39,504;-68,97;ADEL;adelie penguin;1985;0
+MEHO_1984_ADEL;MEHO;Meholmen Island;39,504;-68,97;ADEL;adelie penguin;1984;2
+MERR_2010_ADEL;MERR;Merritt Island;107,156;-66,459;ADEL;adelie penguin;2010;532
+MERT_2009_EMPE;MERT;Mertz Glacier;146,62;-66,892;EMPE;emperor penguin;2009;4781
+MIDA_2016_CHIN;MIDA;Midas Island;-61,101;-64,168;CHIN;chinstrap penguin;2016;180
+MIDG_1980_ADEL;MIDG;Hollin/Midgley;110,404;-66,326;ADEL;adelie penguin;1980;3311
+MIER_1987_CHIN;MIER;Miers Bluff;-60,428;-62,721;CHIN;chinstrap penguin;1987;5000
+MIKK_1996_GENT;MIKK;Mikkelsen Harbor (Trinity Island);-60,791;-63,902;GENT;gentoo penguin;1996;600
+MIKK_2008_GENT;MIKK;Mikkelsen Harbor (Trinity Island);-60,791;-63,902;GENT;gentoo penguin;2008;646
+MIKK_2009_GENT;MIKK;Mikkelsen Harbor (Trinity Island);-60,791;-63,902;GENT;gentoo penguin;2009;1267
+MIKK_2018_GENT;MIKK;Mikkelsen Harbor (Trinity Island);-60,791;-63,902;GENT;gentoo penguin;2018;1123
+MIZU_1975_ADEL;MIZU;Mizukuguri Cove;39,614;-69,197;ADEL;adelie penguin;1975;39
+MIZU_1981_ADEL;MIZU;Mizukuguri Cove;39,614;-69,197;ADEL;adelie penguin;1981;134
+MIZU_1982_ADEL;MIZU;Mizukuguri Cove;39,614;-69,197;ADEL;adelie penguin;1982;200
+MIZU_1984_ADEL;MIZU;Mizukuguri Cove;39,614;-69,197;ADEL;adelie penguin;1984;177
+MIZU_1985_ADEL;MIZU;Mizukuguri Cove;39,614;-69,197;ADEL;adelie penguin;1985;178
+MIZU_1986_ADEL;MIZU;Mizukuguri Cove;39,614;-69,197;ADEL;adelie penguin;1986;320
+MIZU_1988_ADEL;MIZU;Mizukuguri Cove;39,614;-69,197;ADEL;adelie penguin;1988;553
+MIZU_1989_ADEL;MIZU;Mizukuguri Cove;39,614;-69,197;ADEL;adelie penguin;1989;406
+MIZU_1990_ADEL;MIZU;Mizukuguri Cove;39,614;-69,197;ADEL;adelie penguin;1990;434
+MIZU_1991_ADEL;MIZU;Mizukuguri Cove;39,614;-69,197;ADEL;adelie penguin;1991;318
+MIZU_1992_ADEL;MIZU;Mizukuguri Cove;39,614;-69,197;ADEL;adelie penguin;1992;413
+MIZU_1993_ADEL;MIZU;Mizukuguri Cove;39,614;-69,197;ADEL;adelie penguin;1993;366
+MIZU_1994_ADEL;MIZU;Mizukuguri Cove;39,614;-69,197;ADEL;adelie penguin;1994;349
+MIZU_1995_ADEL;MIZU;Mizukuguri Cove;39,614;-69,197;ADEL;adelie penguin;1995;421
+MIZU_1996_ADEL;MIZU;Mizukuguri Cove;39,614;-69,197;ADEL;adelie penguin;1996;445
+MIZU_1997_ADEL;MIZU;Mizukuguri Cove;39,614;-69,197;ADEL;adelie penguin;1997;464
+MIZU_1998_ADEL;MIZU;Mizukuguri Cove;39,614;-69,197;ADEL;adelie penguin;1998;490
+MIZU_1999_ADEL;MIZU;Mizukuguri Cove;39,614;-69,197;ADEL;adelie penguin;1999;698
+MIZU_2000_ADEL;MIZU;Mizukuguri Cove;39,614;-69,197;ADEL;adelie penguin;2000;625
+MIZU_2001_ADEL;MIZU;Mizukuguri Cove;39,614;-69,197;ADEL;adelie penguin;2001;575
+MIZU_2002_ADEL;MIZU;Mizukuguri Cove;39,614;-69,197;ADEL;adelie penguin;2002;743
+MIZU_2003_ADEL;MIZU;Mizukuguri Cove;39,614;-69,197;ADEL;adelie penguin;2003;681
+MIZU_2004_ADEL;MIZU;Mizukuguri Cove;39,614;-69,197;ADEL;adelie penguin;2004;1144
+MLGW_1979_CHIN;MLGW;McLeod Glacier (west);-45,62;-60,731;CHIN;chinstrap penguin;1979;1651
+MOEI_1978_CHIN;MOEI;Moe Island;-45,691;-60,734;CHIN;chinstrap penguin;1978;11622
+MONA_1979_GENT;MONA;Cape Monaco;-64,278;-64,717;GENT;gentoo penguin;1979;950
+MOOT_2008_GENT;MOOT;Moot Point;-64,078;-65,206;GENT;gentoo penguin;2008;278
+MOOT_2009_GENT;MOOT;Moot Point;-64,078;-65,206;GENT;gentoo penguin;2009;272
+MOOT_2016_GENT;MOOT;Moot Point;-64,078;-65,206;GENT;gentoo penguin;2016;722
+MOOT_2018_GENT;MOOT;Moot Point;-64,078;-65,206;GENT;gentoo penguin;2018;925
+MOOT_2020_GENT;MOOT;Moot Point;-64,078;-65,206;GENT;gentoo penguin;2020;1050
+MOPT_1987_CHIN;MOPT;Monroe Point;-61,516;-62,811;CHIN;chinstrap penguin;1987;2000
+MOYE_1979_CHIN;MOYE;Moyes;-45,66;-60,732;CHIN;chinstrap penguin;1979;4241
+MPTE_1953_MACA;MPTE;Macaroni Point (east);-60,543;-62,899;MACA;macaroni penguin;1953;37
+MPTE_1957_MACA;MPTE;Macaroni Point (east);-60,543;-62,899;MACA;macaroni penguin;1957;125
+MPTW_1987_CHIN;MPTW;Macaroni Point (west);-60,583;-62,899;CHIN;chinstrap penguin;1987;400
+MUCK_2020_GENT;MUCK;Muckle Bluff;-54,86;-61,157;GENT;gentoo penguin;2020;1482
+NDUT_1987_GENT;NDUT;North of Duthoit Point;-58,846;-62,286;GENT;gentoo penguin;1987;900
+NEBL_1987_GENT;NEBL;Nebles Point;-58,867;-62,183;GENT;gentoo penguin;1987;2500
+NEDU_2022_ADEL;NEDU;Northeast D'Urville Island;-56,172;-62,993;ADEL;adelie penguin;2022;1253
+NEDU_2022_GENT;NEDU;Northeast D'Urville Island;-56,172;-62,993;GENT;gentoo penguin;2022;1917
+NEIS_1974_ADEL;NEIS;Nelly Island;110,178;-66,229;ADEL;adelie penguin;1974;250
+NEIS_1980_ADEL;NEIS;Nelly Island;110,178;-66,229;ADEL;adelie penguin;1980;68
+NEKO_1987_GENT;NEKO;Neko Harbor (Andvord Bay);-62,533;-64,838;GENT;gentoo penguin;1987;397
+NEKO_1996_GENT;NEKO;Neko Harbor (Andvord Bay);-62,533;-64,838;GENT;gentoo penguin;1996;934
+NEKO_1999_GENT;NEKO;Neko Harbor (Andvord Bay);-62,533;-64,838;GENT;gentoo penguin;1999;625
+NEKO_2000_GENT;NEKO;Neko Harbor (Andvord Bay);-62,533;-64,838;GENT;gentoo penguin;2000;1320
+NEKO_2004_GENT;NEKO;Neko Harbor (Andvord Bay);-62,533;-64,838;GENT;gentoo penguin;2004;1134
+NEKO_2006_GENT;NEKO;Neko Harbor (Andvord Bay);-62,533;-64,838;GENT;gentoo penguin;2006;1726
+NEKO_2009_GENT;NEKO;Neko Harbor (Andvord Bay);-62,533;-64,838;GENT;gentoo penguin;2009;3238
+NEKO_2012_GENT;NEKO;Neko Harbor (Andvord Bay);-62,533;-64,838;GENT;gentoo penguin;2012;1877
+NEKO_2015_GENT;NEKO;Neko Harbor (Andvord Bay);-62,533;-64,838;GENT;gentoo penguin;2015;3913
+NEKO_2016_GENT;NEKO;Neko Harbor (Andvord Bay);-62,533;-64,838;GENT;gentoo penguin;2016;1485
+NEKO_2003_KING;NEKO;Neko Harbor (Andvord Bay);-62,533;-64,838;KING;king penguin;2003;2
+NEWE_1987_CHIN;NEWE;Newell Point;-59,52;-62,337;CHIN;chinstrap penguin;1987;17500
+NFOR_1987_CHIN;NFOR;North Foreland;-57,688;-61,893;CHIN;chinstrap penguin;1987;60000
+NMED_2022_ADEL;NMED;North of Medley Rocks;-55,98;-62,995;ADEL;adelie penguin;2022;1008
+NMED_2022_GENT;NMED;North of Medley Rocks;-55,98;-62,995;GENT;gentoo penguin;2022;44
+NOBL_2018_GENT;NOBL;Noble Rocks;-63,434;-64,785;GENT;gentoo penguin;2018;48
+NOBL_2019_GENT;NOBL;Noble Rocks;-63,434;-64,785;GENT;gentoo penguin;2019;37
+NOKK_1975_ADEL;NOKK;Nokkelholmane Islands;39,464;-69,381;ADEL;adelie penguin;1975;32
+NOKK_1981_ADEL;NOKK;Nokkelholmane Islands;39,464;-69,381;ADEL;adelie penguin;1981;59
+NOKK_1982_ADEL;NOKK;Nokkelholmane Islands;39,464;-69,381;ADEL;adelie penguin;1982;61
+NOKK_1984_ADEL;NOKK;Nokkelholmane Islands;39,464;-69,381;ADEL;adelie penguin;1984;121
+NOKK_1994_ADEL;NOKK;Nokkelholmane Islands;39,464;-69,381;ADEL;adelie penguin;1994;73
+NOKK_1995_ADEL;NOKK;Nokkelholmane Islands;39,464;-69,381;ADEL;adelie penguin;1995;81
+NOKK_1997_ADEL;NOKK;Nokkelholmane Islands;39,464;-69,381;ADEL;adelie penguin;1997;194
+NOKK_1998_ADEL;NOKK;Nokkelholmane Islands;39,464;-69,381;ADEL;adelie penguin;1998;118
+NOKK_1999_ADEL;NOKK;Nokkelholmane Islands;39,464;-69,381;ADEL;adelie penguin;1999;149
+NOKK_2000_ADEL;NOKK;Nokkelholmane Islands;39,464;-69,381;ADEL;adelie penguin;2000;130
+NOKK_2001_ADEL;NOKK;Nokkelholmane Islands;39,464;-69,381;ADEL;adelie penguin;2001;145
+NOKK_2002_ADEL;NOKK;Nokkelholmane Islands;39,464;-69,381;ADEL;adelie penguin;2002;147
+NOKK_2003_ADEL;NOKK;Nokkelholmane Islands;39,464;-69,381;ADEL;adelie penguin;2003;95
+NOKK_2004_ADEL;NOKK;Nokkelholmane Islands;39,464;-69,381;ADEL;adelie penguin;2004;162
+NOPT_1947_ADEL;NOPT;North Point;-45,626;-60,672;ADEL;adelie penguin;1947;3000
+NOPT_1958_ADEL;NOPT;North Point;-45,626;-60,672;ADEL;adelie penguin;1958;4535
+NORF_1982_ADEL;NORF;Northern Foothills (Terra Nova Bay);164;-74,75;ADEL;adelie penguin;1982;15900
+NOVI_2009_EMPE;NOVI;Noville Peninsula;-98,447;-71,769;EMPE;emperor penguin;2009;3568
+NPRO_1987_CHIN;NPRO;Promontories on north-central coast;-62,075;-63,25;CHIN;chinstrap penguin;1987;100
+NUTT_2010_ADEL;NUTT;Cape Nutt;108,213;-66,635;ADEL;adelie penguin;2010;1971
+OLDH_2008_ADEL;OLDH;Oldham Island;61,725;-67,521;ADEL;adelie penguin;2008;3570
+OLII_1979_CHIN;OLII;Oliphant Islands;-45,594;-60,736;CHIN;chinstrap penguin;1979;4502
+OMGA_1981_ADEL;OMGA;Cape Omega;40,983;-68,567;ADEL;adelie penguin;1981;503
+OMGA_1984_ADEL;OMGA;Cape Omega;40,983;-68,567;ADEL;adelie penguin;1984;562
+ONGU_1961_ADEL;ONGU;Ongulkaven;39,425;-69,017;ADEL;adelie penguin;1961;110
+ONGU_1966_ADEL;ONGU;Ongulkaven;39,425;-69,017;ADEL;adelie penguin;1966;103
+ONGU_1970_ADEL;ONGU;Ongulkaven;39,425;-69,017;ADEL;adelie penguin;1970;156
+ONGU_1972_ADEL;ONGU;Ongulkaven;39,425;-69,017;ADEL;adelie penguin;1972;71
+ONGU_1971_ADEL;ONGU;Ongulkaven;39,425;-69,017;ADEL;adelie penguin;1971;113
+ONGU_1973_ADEL;ONGU;Ongulkaven;39,425;-69,017;ADEL;adelie penguin;1973;98
+ONGU_1975_ADEL;ONGU;Ongulkaven;39,425;-69,017;ADEL;adelie penguin;1975;30
+ONGU_1974_ADEL;ONGU;Ongulkaven;39,425;-69,017;ADEL;adelie penguin;1974;73
+ONGU_1977_ADEL;ONGU;Ongulkaven;39,425;-69,017;ADEL;adelie penguin;1977;48
+ONGU_1978_ADEL;ONGU;Ongulkaven;39,425;-69,017;ADEL;adelie penguin;1978;46
+ONGU_1980_ADEL;ONGU;Ongulkaven;39,425;-69,017;ADEL;adelie penguin;1980;43
+ONGU_1981_ADEL;ONGU;Ongulkaven;39,425;-69,017;ADEL;adelie penguin;1981;102
+ONGU_1982_ADEL;ONGU;Ongulkaven;39,425;-69,017;ADEL;adelie penguin;1982;122
+ONGU_1983_ADEL;ONGU;Ongulkaven;39,425;-69,017;ADEL;adelie penguin;1983;59
+ONGU_1984_ADEL;ONGU;Ongulkaven;39,425;-69,017;ADEL;adelie penguin;1984;77
+ONGU_1985_ADEL;ONGU;Ongulkaven;39,425;-69,017;ADEL;adelie penguin;1985;76
+ONGU_1986_ADEL;ONGU;Ongulkaven;39,425;-69,017;ADEL;adelie penguin;1986;158
+ONGU_1987_ADEL;ONGU;Ongulkaven;39,425;-69,017;ADEL;adelie penguin;1987;82
+ONGU_1988_ADEL;ONGU;Ongulkaven;39,425;-69,017;ADEL;adelie penguin;1988;149
+ONGU_1989_ADEL;ONGU;Ongulkaven;39,425;-69,017;ADEL;adelie penguin;1989;84
+ONGU_1990_ADEL;ONGU;Ongulkaven;39,425;-69,017;ADEL;adelie penguin;1990;77
+ONGU_1991_ADEL;ONGU;Ongulkaven;39,425;-69,017;ADEL;adelie penguin;1991;78
+ONGU_1992_ADEL;ONGU;Ongulkaven;39,425;-69,017;ADEL;adelie penguin;1992;124
+ONGU_1993_ADEL;ONGU;Ongulkaven;39,425;-69,017;ADEL;adelie penguin;1993;91
+ONGU_1994_ADEL;ONGU;Ongulkaven;39,425;-69,017;ADEL;adelie penguin;1994;101
+ONGU_1995_ADEL;ONGU;Ongulkaven;39,425;-69,017;ADEL;adelie penguin;1995;87
+ONGU_1996_ADEL;ONGU;Ongulkaven;39,425;-69,017;ADEL;adelie penguin;1996;89
+ONGU_1997_ADEL;ONGU;Ongulkaven;39,425;-69,017;ADEL;adelie penguin;1997;131
+ONGU_1998_ADEL;ONGU;Ongulkaven;39,425;-69,017;ADEL;adelie penguin;1998;192
+ONGU_1999_ADEL;ONGU;Ongulkaven;39,425;-69,017;ADEL;adelie penguin;1999;158
+ONGU_2000_ADEL;ONGU;Ongulkaven;39,425;-69,017;ADEL;adelie penguin;2000;162
+ONGU_2001_ADEL;ONGU;Ongulkaven;39,425;-69,017;ADEL;adelie penguin;2001;207
+ONGU_2002_ADEL;ONGU;Ongulkaven;39,425;-69,017;ADEL;adelie penguin;2002;479
+ONGU_2003_ADEL;ONGU;Ongulkaven;39,425;-69,017;ADEL;adelie penguin;2003;498
+ONGU_2004_ADEL;ONGU;Ongulkaven;39,425;-69,017;ADEL;adelie penguin;2004;650
+ORCW_1987_CHIN;ORCW;Offshore Rocks off Cape Wallace;-62,228;-63,235;CHIN;chinstrap penguin;1987;8100
+ORNE_2000_CHIN;ORNE;Orne Islands;-62,673;-64,662;CHIN;chinstrap penguin;2000;528
+ORNE_2001_CHIN;ORNE;Orne Islands;-62,673;-64,662;CHIN;chinstrap penguin;2001;634
+ORNE_2002_CHIN;ORNE;Orne Islands;-62,673;-64,662;CHIN;chinstrap penguin;2002;111
+ORNE_2003_CHIN;ORNE;Orne Islands;-62,673;-64,662;CHIN;chinstrap penguin;2003;472
+ORNE_2006_CHIN;ORNE;Orne Islands;-62,673;-64,662;CHIN;chinstrap penguin;2006;489
+ORNE_2007_CHIN;ORNE;Orne Islands;-62,673;-64,662;CHIN;chinstrap penguin;2007;887
+ORNE_2008_CHIN;ORNE;Orne Islands;-62,673;-64,662;CHIN;chinstrap penguin;2008;321
+ORNE_2009_CHIN;ORNE;Orne Islands;-62,673;-64,662;CHIN;chinstrap penguin;2009;434
+ORNE_2010_CHIN;ORNE;Orne Islands;-62,673;-64,662;CHIN;chinstrap penguin;2010;526
+ORNE_2018_CHIN;ORNE;Orne Islands;-62,673;-64,662;CHIN;chinstrap penguin;2018;250
+ORNE_2007_GENT;ORNE;Orne Islands;-62,673;-64,662;GENT;gentoo penguin;2007;65
+ORNE_2008_GENT;ORNE;Orne Islands;-62,673;-64,662;GENT;gentoo penguin;2008;68
+ORNE_2009_GENT;ORNE;Orne Islands;-62,673;-64,662;GENT;gentoo penguin;2009;68
+ORNE_2010_GENT;ORNE;Orne Islands;-62,673;-64,662;GENT;gentoo penguin;2010;120
+ORNE_2018_GENT;ORNE;Orne Islands;-62,673;-64,662;GENT;gentoo penguin;2018;412
+OWEN_1987_CHIN;OWEN;Owen Island;-58,389;-61,933;CHIN;chinstrap penguin;1987;25000
+PAND_1978_CHIN;PAND;Pandemonium Point;-45,648;-60,736;CHIN;chinstrap penguin;1978;14543
+PAPT_1987_CHIN;PAPT;Patelnia Point;-58,472;-62,235;CHIN;chinstrap penguin;1987;2000
+PAPT_1987_GENT;PAPT;Patelnia Point;-58,472;-62,235;GENT;gentoo penguin;1987;10
+PAUL_1981_ADEL;PAUL;Paulet Island;-55,788;-63,58;ADEL;adelie penguin;1981;100000
+PCHA_1983_ADEL;PCHA;Port Charcot;-64,026;-65,067;ADEL;adelie penguin;1983;83
+PCHA_2001_ADEL;PCHA;Port Charcot;-64,026;-65,067;ADEL;adelie penguin;2001;35
+PCHA_2006_ADEL;PCHA;Port Charcot;-64,026;-65,067;ADEL;adelie penguin;2006;23
+PCHA_2008_ADEL;PCHA;Port Charcot;-64,026;-65,067;ADEL;adelie penguin;2008;14
+PCHA_2009_ADEL;PCHA;Port Charcot;-64,026;-65,067;ADEL;adelie penguin;2009;35
+PCHA_2010_ADEL;PCHA;Port Charcot;-64,026;-65,067;ADEL;adelie penguin;2010;17
+PCHA_2011_ADEL;PCHA;Port Charcot;-64,026;-65,067;ADEL;adelie penguin;2011;23
+PCHA_2016_ADEL;PCHA;Port Charcot;-64,026;-65,067;ADEL;adelie penguin;2016;6
+PCHA_2024_ADEL;PCHA;Port Charcot;-64,026;-65,067;ADEL;adelie penguin;2024;6
+PCHA_1983_CHIN;PCHA;Port Charcot;-64,026;-65,067;CHIN;chinstrap penguin;1983;3
+PCHA_2001_CHIN;PCHA;Port Charcot;-64,026;-65,067;CHIN;chinstrap penguin;2001;35
+PCHA_2006_CHIN;PCHA;Port Charcot;-64,026;-65,067;CHIN;chinstrap penguin;2006;12
+PCHA_2007_CHIN;PCHA;Port Charcot;-64,026;-65,067;CHIN;chinstrap penguin;2007;13
+PCHA_2008_CHIN;PCHA;Port Charcot;-64,026;-65,067;CHIN;chinstrap penguin;2008;17
+PCHA_2009_CHIN;PCHA;Port Charcot;-64,026;-65,067;CHIN;chinstrap penguin;2009;42
+PCHA_2010_CHIN;PCHA;Port Charcot;-64,026;-65,067;CHIN;chinstrap penguin;2010;30
+PCHA_2011_CHIN;PCHA;Port Charcot;-64,026;-65,067;CHIN;chinstrap penguin;2011;64
+PCHA_2016_CHIN;PCHA;Port Charcot;-64,026;-65,067;CHIN;chinstrap penguin;2016;25
+PCHA_2020_CHIN;PCHA;Port Charcot;-64,026;-65,067;CHIN;chinstrap penguin;2020;32
+PCHA_2024_CHIN;PCHA;Port Charcot;-64,026;-65,067;CHIN;chinstrap penguin;2024;60
+PCHA_2009_GENT;PCHA;Port Charcot;-64,026;-65,067;GENT;gentoo penguin;2009;652
+PCHA_2010_GENT;PCHA;Port Charcot;-64,026;-65,067;GENT;gentoo penguin;2010;2202
+PCHA_2011_GENT;PCHA;Port Charcot;-64,026;-65,067;GENT;gentoo penguin;2011;997
+PCHA_2016_GENT;PCHA;Port Charcot;-64,026;-65,067;GENT;gentoo penguin;2016;1023
+PCHA_2020_GENT;PCHA;Port Charcot;-64,026;-65,067;GENT;gentoo penguin;2020;2371
+PCHA_2024_GENT;PCHA;Port Charcot;-64,026;-65,067;GENT;gentoo penguin;2024;753
+PENG_2008_ADEL;PENG;Penguin Island;-57,927;-62,102;ADEL;adelie penguin;2008;11
+PENG_2013_ADEL;PENG;Penguin Island;-57,927;-62,102;ADEL;adelie penguin;2013;54
+PENG_2018_ADEL;PENG;Penguin Island;-57,927;-62,102;ADEL;adelie penguin;2018;142
+PEPO_2022_ADEL;PEPO;Penguin Point (Seymour Island);-56,691;-64,295;ADEL;adelie penguin;2022;21561
+PETE_1975_ADEL;PETE;Petermann Island;-64,137;-65,176;ADEL;adelie penguin;1975;708
+PETE_1999_ADEL;PETE;Petermann Island;-64,137;-65,176;ADEL;adelie penguin;1999;1135
+PETE_2000_ADEL;PETE;Petermann Island;-64,137;-65,176;ADEL;adelie penguin;2000;935
+PETE_2003_ADEL;PETE;Petermann Island;-64,137;-65,176;ADEL;adelie penguin;2003;661
+PETE_2004_ADEL;PETE;Petermann Island;-64,137;-65,176;ADEL;adelie penguin;2004;731
+PETE_2005_ADEL;PETE;Petermann Island;-64,137;-65,176;ADEL;adelie penguin;2005;580
+PETE_2006_ADEL;PETE;Petermann Island;-64,137;-65,176;ADEL;adelie penguin;2006;589
+PETE_2007_ADEL;PETE;Petermann Island;-64,137;-65,176;ADEL;adelie penguin;2007;458
+PETE_2008_ADEL;PETE;Petermann Island;-64,137;-65,176;ADEL;adelie penguin;2008;434
+PETE_2009_ADEL;PETE;Petermann Island;-64,137;-65,176;ADEL;adelie penguin;2009;869
+PETE_2010_ADEL;PETE;Petermann Island;-64,137;-65,176;ADEL;adelie penguin;2010;450
+PETE_2013_ADEL;PETE;Petermann Island;-64,137;-65,176;ADEL;adelie penguin;2013;439
+PETE_2014_ADEL;PETE;Petermann Island;-64,137;-65,176;ADEL;adelie penguin;2014;382
+PETE_2015_ADEL;PETE;Petermann Island;-64,137;-65,176;ADEL;adelie penguin;2015;864
+PETE_2016_ADEL;PETE;Petermann Island;-64,137;-65,176;ADEL;adelie penguin;2016;363
+PETE_2018_ADEL;PETE;Petermann Island;-64,137;-65,176;ADEL;adelie penguin;2018;292
+PETE_2020_ADEL;PETE;Petermann Island;-64,137;-65,176;ADEL;adelie penguin;2020;319
+PETE_2024_ADEL;PETE;Petermann Island;-64,137;-65,176;ADEL;adelie penguin;2024;185
+PETE_1975_GENT;PETE;Petermann Island;-64,137;-65,176;GENT;gentoo penguin;1975;200
+PETE_2004_GENT;PETE;Petermann Island;-64,137;-65,176;GENT;gentoo penguin;2004;3260
+PETE_2005_GENT;PETE;Petermann Island;-64,137;-65,176;GENT;gentoo penguin;2005;2781
+PETE_2006_GENT;PETE;Petermann Island;-64,137;-65,176;GENT;gentoo penguin;2006;3453
+PETE_2007_GENT;PETE;Petermann Island;-64,137;-65,176;GENT;gentoo penguin;2007;3344
+PETE_2008_GENT;PETE;Petermann Island;-64,137;-65,176;GENT;gentoo penguin;2008;3348
+PETE_2009_GENT;PETE;Petermann Island;-64,137;-65,176;GENT;gentoo penguin;2009;3731
+PETE_2015_GENT;PETE;Petermann Island;-64,137;-65,176;GENT;gentoo penguin;2015;3905
+PETE_2020_GENT;PETE;Petermann Island;-64,137;-65,176;GENT;gentoo penguin;2020;4960
+PGEO_1984_ADEL;PGEO;Point Geologie;140,005;-66,674;ADEL;adelie penguin;1984;29182
+PGEO_1984_EMPE;PGEO;Point Geologie;140,005;-66,674;EMPE;emperor penguin;1984;3119
+PGEO_1987_EMPE;PGEO;Point Geologie;140,005;-66,674;EMPE;emperor penguin;1987;2300
+PGEO_2009_EMPE;PGEO;Point Geologie;140,005;-66,674;EMPE;emperor penguin;2009;2456
+PIGE_1982_ADEL;PIGE;Cape Pigeon Rocks;143,894;-66,933;ADEL;adelie penguin;1982;1410
+PIGE_1997_ADEL;PIGE;Cape Pigeon Rocks;143,894;-66,933;ADEL;adelie penguin;1997;9000
+PIIS_1987_ADEL;PIIS;Peter I Island;-90,492;-68,835;ADEL;adelie penguin;1987;25
+PIIS_1990_ADEL;PIIS;Peter I Island;-90,492;-68,835;ADEL;adelie penguin;1990;50
+PING_2014_MACA;PING;Pinguino Island;-60,986;-64,144;MACA;macaroni penguin;2014;1
+PISL_1974_ADEL;PISL;Peterson Island;110,499;-66,466;ADEL;adelie penguin;1974;9000
+PISL_1980_ADEL;PISL;Peterson Island;110,499;-66,466;ADEL;adelie penguin;1980;5946
+PLEN_2018_ADEL;PLEN;Pleneau Island;-64,056;-65,104;ADEL;adelie penguin;2018;2
+PLEN_2008_GENT;PLEN;Pleneau Island;-64,056;-65,104;GENT;gentoo penguin;2008;2984
+PLEN_2009_GENT;PLEN;Pleneau Island;-64,056;-65,104;GENT;gentoo penguin;2009;2829
+PLEN_2011_GENT;PLEN;Pleneau Island;-64,056;-65,104;GENT;gentoo penguin;2011;2981
+PLEN_2015_GENT;PLEN;Pleneau Island;-64,056;-65,104;GENT;gentoo penguin;2015;6691
+PLEN_2016_GENT;PLEN;Pleneau Island;-64,056;-65,104;GENT;gentoo penguin;2016;1578
+PLEN_2018_GENT;PLEN;Pleneau Island;-64,056;-65,104;GENT;gentoo penguin;2018;3931
+PLEN_2001_KING;PLEN;Pleneau Island;-64,056;-65,104;KING;king penguin;2001;1
+POPO_1987_CHIN;POPO;Pottinger Point;-58,358;-61,932;CHIN;chinstrap penguin;1987;175550
+PORT_1979_CHIN;PORT;Porteous Point;-45,675;-60,724;CHIN;chinstrap penguin;1979;5
+POWE_1983_ADEL;POWE;Powell Island;-45,029;-60,725;ADEL;adelie penguin;1983;24560
+PRES_1987_CHIN;PRES;President Head (Snow Island);-61,2;-62,725;CHIN;chinstrap penguin;1987;100
+PSON_2009_EMPE;PSON;Peterson Bank;110,236;-65,918;EMPE;emperor penguin;2009;0
+PTHO_2011_ADEL;PTHO;Point Thomas;-58,462;-62,163;ADEL;adelie penguin;2011;4982
+PTHO_2014_ADEL;PTHO;Point Thomas;-58,462;-62,163;ADEL;adelie penguin;2014;14
+PTHO_1990_MACA;PTHO;Point Thomas;-58,462;-62,163;MACA;macaroni penguin;1990;2
+RAGN_2009_EMPE;RAGN;Ragnhild;27,155;-69,908;EMPE;emperor penguin;2009;6870
+RASM_2020_GENT;RASM;Rasmussen Island;-64,085;-65,248;GENT;gentoo penguin;2020;27
+RASM_2024_GENT;RASM;Rasmussen Island;-64,085;-65,248;GENT;gentoo penguin;2024;156
+RENI_2017_CHIN;RENI;Renier Point;-59,81;-62,609;CHIN;chinstrap penguin;2017;258
+RIIS_1986_EMPE;RIIS;Riiser-Larsen;-15,106;-72,124;EMPE;emperor penguin;1986;5900
+RIIS_2009_EMPE;RIIS;Riiser-Larsen;-15,106;-72,124;EMPE;emperor penguin;2009;4013
+ROBE_1987_CHIN;ROBE;Robert Point (Robert Island);-59,383;-62,45;CHIN;chinstrap penguin;1987;5000
+ROGE_1964_EMPE;ROGE;Cape Roget;170,597;-71,988;EMPE;emperor penguin;1964;11700
+ROGE_1983_EMPE;ROGE;Cape Roget;170,597;-71,988;EMPE;emperor penguin;1983;3851
+ROGE_2007_EMPE;ROGE;Cape Roget;170,597;-71,988;EMPE;emperor penguin;2007;14753
+ROGE_2008_EMPE;ROGE;Cape Roget;170,597;-71,988;EMPE;emperor penguin;2008;16022
+ROGE_2009_EMPE;ROGE;Cape Roget;170,597;-71,988;EMPE;emperor penguin;2009;9505
+ROGE_2010_EMPE;ROGE;Cape Roget;170,597;-71,988;EMPE;emperor penguin;2010;9590
+ROGE_2011_EMPE;ROGE;Cape Roget;170,597;-71,988;EMPE;emperor penguin;2011;15846
+ROGE_2012_EMPE;ROGE;Cape Roget;170,597;-71,988;EMPE;emperor penguin;2012;11383
+ROGE_2018_EMPE;ROGE;Cape Roget;170,597;-71,988;EMPE;emperor penguin;2018;5221
+ROME_1987_CHIN;ROME;Romeo Island;-59,927;-62,376;CHIN;chinstrap penguin;1987;500
+RONE_1987_GENT;RONE;Ronge Island East;-62,644;-64,688;GENT;gentoo penguin;1987;202
+RONE_2008_GENT;RONE;Ronge Island East;-62,644;-64,688;GENT;gentoo penguin;2008;538
+RONE_2009_GENT;RONE;Ronge Island East;-62,644;-64,688;GENT;gentoo penguin;2009;301
+RONE_2010_GENT;RONE;Ronge Island East;-62,644;-64,688;GENT;gentoo penguin;2010;434
+RONE_2018_GENT;RONE;Ronge Island East;-62,644;-64,688;GENT;gentoo penguin;2018;431
+RRRI_1940_ADEL;RRRI;Red Rock Ridge;-67,169;-68,288;ADEL;adelie penguin;1940;600
+RRRI_1948_ADEL;RRRI;Red Rock Ridge;-67,169;-68,288;ADEL;adelie penguin;1948;1800
+RRRI_1984_ADEL;RRRI;Red Rock Ridge;-67,169;-68,288;ADEL;adelie penguin;1984;1820
+RRRI_2013_ADEL;RRRI;Red Rock Ridge;-67,169;-68,288;ADEL;adelie penguin;2013;3760
+RRRI_2019_ADEL;RRRI;Red Rock Ridge;-67,169;-68,288;ADEL;adelie penguin;2019;4572
+RUGG_1987_CHIN;RUGG;Rugged Rocks;-59,816;-62,601;CHIN;chinstrap penguin;1987;3000
+RUGG_2017_CHIN;RUGG;Rugged Rocks;-59,816;-62,601;CHIN;chinstrap penguin;2017;1950
+RUMP_1967_ADEL;RUMP;Rumpa Island;39,391;-69,144;ADEL;adelie penguin;1967;960
+RUMP_1972_ADEL;RUMP;Rumpa Island;39,391;-69,144;ADEL;adelie penguin;1972;209
+RUMP_1973_ADEL;RUMP;Rumpa Island;39,391;-69,144;ADEL;adelie penguin;1973;438
+RUMP_1975_ADEL;RUMP;Rumpa Island;39,391;-69,144;ADEL;adelie penguin;1975;533
+RUMP_1980_ADEL;RUMP;Rumpa Island;39,391;-69,144;ADEL;adelie penguin;1980;473
+RUMP_1981_ADEL;RUMP;Rumpa Island;39,391;-69,144;ADEL;adelie penguin;1981;1145
+RUMP_1982_ADEL;RUMP;Rumpa Island;39,391;-69,144;ADEL;adelie penguin;1982;1534
+RUMP_1983_ADEL;RUMP;Rumpa Island;39,391;-69,144;ADEL;adelie penguin;1983;1200
+RUMP_1984_ADEL;RUMP;Rumpa Island;39,391;-69,144;ADEL;adelie penguin;1984;1550
+RUMP_1985_ADEL;RUMP;Rumpa Island;39,391;-69,144;ADEL;adelie penguin;1985;1224
+RUMP_1986_ADEL;RUMP;Rumpa Island;39,391;-69,144;ADEL;adelie penguin;1986;1450
+RUMP_1987_ADEL;RUMP;Rumpa Island;39,391;-69,144;ADEL;adelie penguin;1987;1537
+RUMP_1988_ADEL;RUMP;Rumpa Island;39,391;-69,144;ADEL;adelie penguin;1988;2270
+RUMP_1989_ADEL;RUMP;Rumpa Island;39,391;-69,144;ADEL;adelie penguin;1989;1338
+RUMP_1990_ADEL;RUMP;Rumpa Island;39,391;-69,144;ADEL;adelie penguin;1990;1893
+RUMP_1991_ADEL;RUMP;Rumpa Island;39,391;-69,144;ADEL;adelie penguin;1991;1498
+RUMP_1992_ADEL;RUMP;Rumpa Island;39,391;-69,144;ADEL;adelie penguin;1992;1485
+RUMP_1993_ADEL;RUMP;Rumpa Island;39,391;-69,144;ADEL;adelie penguin;1993;1760
+RUMP_1994_ADEL;RUMP;Rumpa Island;39,391;-69,144;ADEL;adelie penguin;1994;1380
+RUMP_1995_ADEL;RUMP;Rumpa Island;39,391;-69,144;ADEL;adelie penguin;1995;1466
+RUMP_1996_ADEL;RUMP;Rumpa Island;39,391;-69,144;ADEL;adelie penguin;1996;1695
+RUMP_1997_ADEL;RUMP;Rumpa Island;39,391;-69,144;ADEL;adelie penguin;1997;1433
+RUMP_1998_ADEL;RUMP;Rumpa Island;39,391;-69,144;ADEL;adelie penguin;1998;2288
+RUMP_1999_ADEL;RUMP;Rumpa Island;39,391;-69,144;ADEL;adelie penguin;1999;2549
+RUMP_2000_ADEL;RUMP;Rumpa Island;39,391;-69,144;ADEL;adelie penguin;2000;2006
+RUMP_2001_ADEL;RUMP;Rumpa Island;39,391;-69,144;ADEL;adelie penguin;2001;1882
+RUMP_2002_ADEL;RUMP;Rumpa Island;39,391;-69,144;ADEL;adelie penguin;2002;3111
+RUMP_2003_ADEL;RUMP;Rumpa Island;39,391;-69,144;ADEL;adelie penguin;2003;3080
+RUMP_2004_ADEL;RUMP;Rumpa Island;39,391;-69,144;ADEL;adelie penguin;2004;3515
+RUPE_2008_EMPE;RUPE;Rupert Coast;-143,308;-75,382;EMPE;emperor penguin;2008;1550
+RXLH_1987_GENT;RXLH;Rocks near Low Head;-58,133;-62,15;GENT;gentoo penguin;1987;75
+SABR_1965_CHIN;SABR;Sabrina Island;163,309;-66,917;CHIN;chinstrap penguin;1965;4
+SABR_2005_CHIN;SABR;Sabrina Island;163,309;-66,917;CHIN;chinstrap penguin;2005;311
+SABR_2014_CHIN;SABR;Sabrina Island;163,309;-66,917;CHIN;chinstrap penguin;2014;84
+SADD_1903_CHIN;SADD;Saddle Island;-44,855;-60,617;CHIN;chinstrap penguin;1903;25000
+SANA_1979_EMPE;SANA;Sanae;-1,413;-69,999;EMPE;emperor penguin;1979;113
+SANA_2009_EMPE;SANA;Sanae;-1,413;-69,999;EMPE;emperor penguin;2009;3193
+SART_2018_CHIN;SART;Sartorius Point;-59,657;-62,56;CHIN;chinstrap penguin;2018;321
+SCRY_2022_GENT;SCRY;Cape Scrymgeour;-56,455;-63,566;GENT;gentoo penguin;2022;75
+SEAL_1987_CHIN;SEAL;Seal Islands;-55,393;-60,975;CHIN;chinstrap penguin;1987;20000
+SEAL_1987_MACA;SEAL;Seal Islands;-55,393;-60,975;MACA;macaroni penguin;1987;150
+SEAL_1989_MACA;SEAL;Seal Islands;-55,393;-60,975;MACA;macaroni penguin;1989;194
+SEGI_2020_CHIN;SEGI;Small island southeast on Gerlache Island;-64,204;-64,604;CHIN;chinstrap penguin;2020;56
+SELV_2015_CHIN;SELV;Selvick Cove;-62,569;-64,641;CHIN;chinstrap penguin;2015;116
+SELV_2016_CHIN;SELV;Selvick Cove;-62,569;-64,641;CHIN;chinstrap penguin;2016;86
+SELV_2015_GENT;SELV;Selvick Cove;-62,569;-64,641;GENT;gentoo penguin;2015;646
+SELV_2016_GENT;SELV;Selvick Cove;-62,569;-64,641;GENT;gentoo penguin;2016;538
+SHAC_1960_EMPE;SHAC;Shackleton Ice Shelf;96,02;-65,089;EMPE;emperor penguin;1960;5000
+SHAC_2009_EMPE;SHAC;Shackleton Ice Shelf;96,02;-65,089;EMPE;emperor penguin;2009;6471
+SHAG_1978_CHIN;SHAG;Shagnasty Island;-45,618;-60,732;CHIN;chinstrap penguin;1978;2837
+SHIR_1981_CHIN;SHIR;Cape Shirreff;-60,787;-62,458;CHIN;chinstrap penguin;1981;2164
+SHIR_1987_CHIN;SHIR;Cape Shirreff;-60,787;-62,458;CHIN;chinstrap penguin;1987;26000
+SHIR_1997_CHIN;SHIR;Cape Shirreff;-60,787;-62,458;CHIN;chinstrap penguin;1997;8802
+SHIR_1998_CHIN;SHIR;Cape Shirreff;-60,787;-62,458;CHIN;chinstrap penguin;1998;7936
+SHIR_1999_CHIN;SHIR;Cape Shirreff;-60,787;-62,458;CHIN;chinstrap penguin;1999;8774
+SHIR_2000_CHIN;SHIR;Cape Shirreff;-60,787;-62,458;CHIN;chinstrap penguin;2000;9226
+SHIR_2001_CHIN;SHIR;Cape Shirreff;-60,787;-62,458;CHIN;chinstrap penguin;2001;9744
+SHIR_2002_CHIN;SHIR;Cape Shirreff;-60,787;-62,458;CHIN;chinstrap penguin;2002;7432
+SHIR_2003_CHIN;SHIR;Cape Shirreff;-60,787;-62,458;CHIN;chinstrap penguin;2003;4420
+SHIR_2004_CHIN;SHIR;Cape Shirreff;-60,787;-62,458;CHIN;chinstrap penguin;2004;5619
+SHIR_2005_CHIN;SHIR;Cape Shirreff;-60,787;-62,458;CHIN;chinstrap penguin;2005;4323
+SHIR_2006_CHIN;SHIR;Cape Shirreff;-60,787;-62,458;CHIN;chinstrap penguin;2006;5247
+SHIR_2007_CHIN;SHIR;Cape Shirreff;-60,787;-62,458;CHIN;chinstrap penguin;2007;5299
+SHIR_2008_CHIN;SHIR;Cape Shirreff;-60,787;-62,458;CHIN;chinstrap penguin;2008;1135
+SHIR_2009_CHIN;SHIR;Cape Shirreff;-60,787;-62,458;CHIN;chinstrap penguin;2009;4332
+SHIR_2010_CHIN;SHIR;Cape Shirreff;-60,787;-62,458;CHIN;chinstrap penguin;2010;3762
+SHIR_2011_CHIN;SHIR;Cape Shirreff;-60,787;-62,458;CHIN;chinstrap penguin;2011;4303
+SHIR_1981_GENT;SHIR;Cape Shirreff;-60,787;-62,458;GENT;gentoo penguin;1981;843
+SHIR_1987_GENT;SHIR;Cape Shirreff;-60,787;-62,458;GENT;gentoo penguin;1987;750
+SHIR_1997_GENT;SHIR;Cape Shirreff;-60,787;-62,458;GENT;gentoo penguin;1997;825
+SHIR_1998_GENT;SHIR;Cape Shirreff;-60,787;-62,458;GENT;gentoo penguin;1998;910
+SHIR_1999_GENT;SHIR;Cape Shirreff;-60,787;-62,458;GENT;gentoo penguin;1999;1013
+SHIR_2000_GENT;SHIR;Cape Shirreff;-60,787;-62,458;GENT;gentoo penguin;2000;1159
+SHIR_2001_GENT;SHIR;Cape Shirreff;-60,787;-62,458;GENT;gentoo penguin;2001;1298
+SHIR_2002_GENT;SHIR;Cape Shirreff;-60,787;-62,458;GENT;gentoo penguin;2002;1061
+SHIR_2003_GENT;SHIR;Cape Shirreff;-60,787;-62,458;GENT;gentoo penguin;2003;696
+SHIR_2004_GENT;SHIR;Cape Shirreff;-60,787;-62,458;GENT;gentoo penguin;2004;916
+SHIR_2005_GENT;SHIR;Cape Shirreff;-60,787;-62,458;GENT;gentoo penguin;2005;933
+SHIR_2006_GENT;SHIR;Cape Shirreff;-60,787;-62,458;GENT;gentoo penguin;2006;1158
+SHIR_2007_GENT;SHIR;Cape Shirreff;-60,787;-62,458;GENT;gentoo penguin;2007;956
+SHIR_2008_GENT;SHIR;Cape Shirreff;-60,787;-62,458;GENT;gentoo penguin;2008;544
+SHIR_2009_GENT;SHIR;Cape Shirreff;-60,787;-62,458;GENT;gentoo penguin;2009;1010
+SHIR_2010_GENT;SHIR;Cape Shirreff;-60,787;-62,458;GENT;gentoo penguin;2010;916
+SHIR_2011_GENT;SHIR;Cape Shirreff;-60,787;-62,458;GENT;gentoo penguin;2011;906
+SIGA_2001_ADEL;SIGA;Sigaren;39,434;-69,169;ADEL;adelie penguin;2001;13
+SIGA_2002_ADEL;SIGA;Sigaren;39,434;-69,169;ADEL;adelie penguin;2002;28
+SIGA_2003_ADEL;SIGA;Sigaren;39,434;-69,169;ADEL;adelie penguin;2003;18
+SIGA_2004_ADEL;SIGA;Sigaren;39,434;-69,169;ADEL;adelie penguin;2004;37
+SKOT_2009_GENT;SKOT;Skottsberg Point;-60,809;-63,92;GENT;gentoo penguin;2009;190
+SKOT_2016_GENT;SKOT;Skottsberg Point;-60,809;-63,92;GENT;gentoo penguin;2016;239
+SMIT_1987_CHIN;SMIT;Cape Smith;-62,3;-62,874;CHIN;chinstrap penguin;1987;4500
+SMTH_2009_EMPE;SMTH;Smith;-60,827;-74,369;EMPE;emperor penguin;2009;4018
+SMYL_2009_EMPE;SMYL;Smyley;-78,82;-72,302;EMPE;emperor penguin;2009;6061
+SNOW_2009_EMPE;SNOW;Snow Hill Island;-57,444;-64,524;EMPE;emperor penguin;2009;2164
+SOMI_1983_ADEL;SOMI;South of Martin Islands;-65,338;-65,688;ADEL;adelie penguin;1983;1277
+SPBL_1987_CHIN;SPBL;South Point Bluff;-60,635;-63,016;CHIN;chinstrap penguin;1987;4500
+SPIG_2009_CHIN;SPIG;Spigot Peak Ridge;-62,554;-64,635;CHIN;chinstrap penguin;2009;575
+SPIG_2014_CHIN;SPIG;Spigot Peak Ridge;-62,554;-64,635;CHIN;chinstrap penguin;2014;523
+SPIG_2015_CHIN;SPIG;Spigot Peak Ridge;-62,554;-64,635;CHIN;chinstrap penguin;2015;747
+SPIG_2016_CHIN;SPIG;Spigot Peak Ridge;-62,554;-64,635;CHIN;chinstrap penguin;2016;178
+SPIG_2024_CHIN;SPIG;Spigot Peak Ridge;-62,554;-64,635;CHIN;chinstrap penguin;2024;390
+SPIP_2011_CHIN;SPIP;Spigot Peak Point;-62,558;-64,625;CHIN;chinstrap penguin;2011;111
+SPIP_2015_CHIN;SPIP;Spigot Peak Point;-62,558;-64,625;CHIN;chinstrap penguin;2015;443
+SPIP_2016_CHIN;SPIP;Spigot Peak Point;-62,558;-64,625;CHIN;chinstrap penguin;2016;287
+SPIP_2017_CHIN;SPIP;Spigot Peak Point;-62,558;-64,625;CHIN;chinstrap penguin;2017;435
+SPIP_2024_CHIN;SPIP;Spigot Peak Point;-62,558;-64,625;CHIN;chinstrap penguin;2024;416
+SPIP_2015_GENT;SPIP;Spigot Peak Point;-62,558;-64,625;GENT;gentoo penguin;2015;2
+SPIP_2024_GENT;SPIP;Spigot Peak Point;-62,558;-64,625;GENT;gentoo penguin;2024;67
+SPNW_1987_CHIN;SPNW;South Point Bluff (northwest);-60,67;-63,014;CHIN;chinstrap penguin;1987;15000
+SPRI_2024_CHIN;SPRI;Sprightly Islands Vicinity;-61,072;-64,283;CHIN;chinstrap penguin;2024;254
+SPRO_1947_ADEL;SPRO;Spindrift Rocks;-45,644;-60,683;ADEL;adelie penguin;1947;2500
+SPRO_1958_ADEL;SPRO;Spindrift Rocks;-45,644;-60,683;ADEL;adelie penguin;1958;3816
+SPTR_2015_CHIN;SPTR;Spigot Peak Tripod;-62,562;-64,636;CHIN;chinstrap penguin;2015;377
+SPTR_2018_CHIN;SPTR;Spigot Peak Tripod;-62,562;-64,636;CHIN;chinstrap penguin;2018;97
+SPTR_2015_GENT;SPTR;Spigot Peak Tripod;-62,562;-64,636;GENT;gentoo penguin;2015;24
+SPTR_2016_GENT;SPTR;Spigot Peak Tripod;-62,562;-64,636;GENT;gentoo penguin;2016;19
+STAN_2008_ADEL;STAN;Stanton Continental Rock;61,718;-67,534;ADEL;adelie penguin;2008;3227
+STCB_1986_EMPE;STCB;Stancomb;-23,087;-74,12;EMPE;emperor penguin;1986;3000
+STCB_2009_EMPE;STCB;Stancomb;-23,087;-74,12;EMPE;emperor penguin;2009;5455
+STER_2016_CHIN;STER;Sterneck Island;-61,049;-64,192;CHIN;chinstrap penguin;2016;0
+STER_2016_GENT;STER;Sterneck Island;-61,049;-64,192;GENT;gentoo penguin;2016;3668
+STIG_1987_CHIN;STIG;Stigant Point;-58,718;-62,023;CHIN;chinstrap penguin;1987;13550
+STNK_2020_GENT;STNK;Stinker Point;-55,359;-61,236;GENT;gentoo penguin;2020;1992
+STNK_2020_KING;STNK;Stinker Point;-55,359;-61,236;KING;king penguin;2020;2
+STRA_1987_CHIN;STRA;Stranger Point;-58,616;-62,26;CHIN;chinstrap penguin;1987;175
+STRA_1987_GENT;STRA;Stranger Point;-58,616;-62,26;GENT;gentoo penguin;1987;1750
+STRA_1997_GENT;STRA;Stranger Point;-58,616;-62,26;GENT;gentoo penguin;1997;2746
+STRA_1998_GENT;STRA;Stranger Point;-58,616;-62,26;GENT;gentoo penguin;1998;3110
+STRA_2001_GENT;STRA;Stranger Point;-58,616;-62,26;GENT;gentoo penguin;2001;3466
+STRA_2002_GENT;STRA;Stranger Point;-58,616;-62,26;GENT;gentoo penguin;2002;2826
+STRA_2003_GENT;STRA;Stranger Point;-58,616;-62,26;GENT;gentoo penguin;2003;2780
+STRA_2004_GENT;STRA;Stranger Point;-58,616;-62,26;GENT;gentoo penguin;2004;2977
+STRA_2005_GENT;STRA;Stranger Point;-58,616;-62,26;GENT;gentoo penguin;2005;3377
+STRA_2006_GENT;STRA;Stranger Point;-58,616;-62,26;GENT;gentoo penguin;2006;4402
+STRA_2007_GENT;STRA;Stranger Point;-58,616;-62,26;GENT;gentoo penguin;2007;7126
+STRA_2008_GENT;STRA;Stranger Point;-58,616;-62,26;GENT;gentoo penguin;2008;3417
+STRA_2009_GENT;STRA;Stranger Point;-58,616;-62,26;GENT;gentoo penguin;2009;2652
+STRA_2010_GENT;STRA;Stranger Point;-58,616;-62,26;GENT;gentoo penguin;2010;4035
+STRA_2011_GENT;STRA;Stranger Point;-58,616;-62,26;GENT;gentoo penguin;2011;3828
+STRA_2012_GENT;STRA;Stranger Point;-58,616;-62,26;GENT;gentoo penguin;2012;3718
+STRA_2013_GENT;STRA;Stranger Point;-58,616;-62,26;GENT;gentoo penguin;2013;4570
+STRA_2014_GENT;STRA;Stranger Point;-58,616;-62,26;GENT;gentoo penguin;2014;3764
+STRA_2015_GENT;STRA;Stranger Point;-58,616;-62,26;GENT;gentoo penguin;2015;3754
+STRA_2016_GENT;STRA;Stranger Point;-58,616;-62,26;GENT;gentoo penguin;2016;6201
+STRA_2017_GENT;STRA;Stranger Point;-58,616;-62,26;GENT;gentoo penguin;2017;4272
+STRA_2018_GENT;STRA;Stranger Point;-58,616;-62,26;GENT;gentoo penguin;2018;5545
+STRA_1984_MACA;STRA;Stranger Point;-58,616;-62,26;MACA;macaroni penguin;1984;1
+STRA_1994_MACA;STRA;Stranger Point;-58,616;-62,26;MACA;macaroni penguin;1994;1
+STUN_2008_ADEL;STUN;Stanton unnamed;61,598;-67,508;ADEL;adelie penguin;2008;801
+TART_1987_CHIN;TART;Tartar Point;-58,436;-61,931;CHIN;chinstrap penguin;1987;35000
+TAYG_1980_EMPE;TAYG;Taylor Glacier;60,878;-67,454;EMPE;emperor penguin;1980;1725
+TAYG_1988_EMPE;TAYG;Taylor Glacier;60,878;-67,454;EMPE;emperor penguin;1988;2900
+TAYG_2009_EMPE;TAYG;Taylor Glacier;60,878;-67,454;EMPE;emperor penguin;2009;519
+TAYH_2022_ADEL;TAYH;Tay Head (Joinville Island);-55,551;-63,349;ADEL;adelie penguin;2022;6769
+TENM_1982_ADEL;TENM;Tenmondai Rock;41,701;-68,445;ADEL;adelie penguin;1982;96
+TETR_2016_CHIN;TETR;Tetrad Islands;-60,734;-63,918;CHIN;chinstrap penguin;2016;387
+TETR_2024_CHIN;TETR;Tetrad Islands;-60,734;-63,918;CHIN;chinstrap penguin;2024;391
+TISW_2024_CHIN;TISW;Trinity Island (southwest);-60,901;-63,893;CHIN;chinstrap penguin;2024;551
+TORG_1982_ADEL;TORG;Torgersen Island;-64,074;-64,773;ADEL;adelie penguin;1982;6500
+TORI_1973_ADEL;TORI;Torinosu Cove;39,567;-69,483;ADEL;adelie penguin;1973;72
+TORI_1975_ADEL;TORI;Torinosu Cove;39,567;-69,483;ADEL;adelie penguin;1975;50
+TORI_1981_ADEL;TORI;Torinosu Cove;39,567;-69,483;ADEL;adelie penguin;1981;135
+TORI_1982_ADEL;TORI;Torinosu Cove;39,567;-69,483;ADEL;adelie penguin;1982;105
+TORI_1984_ADEL;TORI;Torinosu Cove;39,567;-69,483;ADEL;adelie penguin;1984;128
+TORI_1986_ADEL;TORI;Torinosu Cove;39,567;-69,483;ADEL;adelie penguin;1986;156
+TORI_1989_ADEL;TORI;Torinosu Cove;39,567;-69,483;ADEL;adelie penguin;1989;161
+TORI_1990_ADEL;TORI;Torinosu Cove;39,567;-69,483;ADEL;adelie penguin;1990;220
+TORI_1993_ADEL;TORI;Torinosu Cove;39,567;-69,483;ADEL;adelie penguin;1993;161
+TORI_1994_ADEL;TORI;Torinosu Cove;39,567;-69,483;ADEL;adelie penguin;1994;114
+TORI_1995_ADEL;TORI;Torinosu Cove;39,567;-69,483;ADEL;adelie penguin;1995;139
+TORI_1997_ADEL;TORI;Torinosu Cove;39,567;-69,483;ADEL;adelie penguin;1997;119
+TORI_1998_ADEL;TORI;Torinosu Cove;39,567;-69,483;ADEL;adelie penguin;1998;99
+TORI_1999_ADEL;TORI;Torinosu Cove;39,567;-69,483;ADEL;adelie penguin;1999;116
+TORI_2000_ADEL;TORI;Torinosu Cove;39,567;-69,483;ADEL;adelie penguin;2000;114
+TORI_2001_ADEL;TORI;Torinosu Cove;39,567;-69,483;ADEL;adelie penguin;2001;93
+TORI_2002_ADEL;TORI;Torinosu Cove;39,567;-69,483;ADEL;adelie penguin;2002;100
+TORI_2003_ADEL;TORI;Torinosu Cove;39,567;-69,483;ADEL;adelie penguin;2003;66
+TORI_2004_ADEL;TORI;Torinosu Cove;39,567;-69,483;ADEL;adelie penguin;2004;45
+TOWE_1987_CHIN;TOWE;Tower Island (east);-59,779;-63,591;CHIN;chinstrap penguin;1987;2
+TPTN_1987_CHIN;TPTN;Two points north of Cape Hooker;-61,951;-63,319;CHIN;chinstrap penguin;1987;100
+TRIA_1987_GENT;TRIA;Triangle Point;-59,839;-62,522;GENT;gentoo penguin;1987;1000
+TRIA_2019_GENT;TRIA;Triangle Point;-59,839;-62,522;GENT;gentoo penguin;2019;4195
+TRID_2020_CHIN;TRID;Trident Glacier;-55,241;-61,278;CHIN;chinstrap penguin;2020;348
+TROW_1987_CHIN;TROW;Trowbridge Islands;-57,63;-61,996;CHIN;chinstrap penguin;1987;2000
+TRUA_1987_GENT;TRUA;Truant Island;-63,407;-64,923;GENT;gentoo penguin;1987;717
+TSIS_2018_ADEL;TSIS;Three Sisters;-57,913;-62,078;ADEL;adelie penguin;2018;510
+TTOE_1987_CHIN;TTOE;The Toe;-59,167;-62,328;CHIN;chinstrap penguin;1987;22500
+TURR_2007_ADEL;TURR;Turret Point (King George Island);-57,951;-62,087;ADEL;adelie penguin;2007;182
+TURR_2014_ADEL;TURR;Turret Point (King George Island);-57,951;-62,087;ADEL;adelie penguin;2014;137
+TURR_2018_ADEL;TURR;Turret Point (King George Island);-57,951;-62,087;ADEL;adelie penguin;2018;83
+TURR_2017_ADEL;TURR;Turret Point (King George Island);-57,951;-62,087;ADEL;adelie penguin;2017;89
+TURR_1987_CHIN;TURR;Turret Point (King George Island);-57,951;-62,087;CHIN;chinstrap penguin;1987;300
+TUXE_2020_GENT;TUXE;Cape Tuxen;-64,118;-65,267;GENT;gentoo penguin;2020;1093
+TUXE_2024_GENT;TUXE;Cape Tuxen;-64,118;-65,267;GENT;gentoo penguin;2024;1214
+TWGI_1987_CHIN;TWGI;Three islands west of Gerlache Island;-64,247;-64,592;CHIN;chinstrap penguin;1987;1700
+TWGI_2020_CHIN;TWGI;Three islands west of Gerlache Island;-64,247;-64,592;CHIN;chinstrap penguin;2020;1664
+TXRX_2015_GENT;TXRX;Tuxen Rocks;-64,133;-65,255;GENT;gentoo penguin;2015;50
+TXRX_2016_GENT;TXRX;Tuxen Rocks;-64,133;-65,255;GENT;gentoo penguin;2016;39
+TXRX_2020_GENT;TXRX;Tuxen Rocks;-64,133;-65,255;GENT;gentoo penguin;2020;41
+TXRX_2024_GENT;TXRX;Tuxen Rocks;-64,133;-65,255;GENT;gentoo penguin;2024;34
+UFSI_2008_ADEL;UFSI;Ufs Island;61,141;-67,469;ADEL;adelie penguin;2008;2300
+UICW_1987_CHIN;UICW;Unnamed island off Cape Wallace;-62,178;-63,232;CHIN;chinstrap penguin;1987;50000
+UIEL_1987_CHIN;UIEL;Unnamed island off Elephant Point;-60,87;-62,697;CHIN;chinstrap penguin;1987;500
+UIEL_1987_GENT;UIEL;Unnamed island off Elephant Point;-60,87;-62,697;GENT;gentoo penguin;1987;50
+UMBE_1990_EMPE;UMBE;Umebosi;43,017;-68,046;EMPE;emperor penguin;1990;235
+UMBE_2009_EMPE;UMBE;Umebosi;43,017;-68,046;EMPE;emperor penguin;2009;146
+USEF_2009_CHIN;USEF;Useful Island;-62,864;-64,717;CHIN;chinstrap penguin;2009;198
+USEF_2010_CHIN;USEF;Useful Island;-62,864;-64,717;CHIN;chinstrap penguin;2010;266
+USEF_2009_GENT;USEF;Useful Island;-62,864;-64,717;GENT;gentoo penguin;2009;1400
+USEF_2010_GENT;USEF;Useful Island;-62,864;-64,717;GENT;gentoo penguin;2010;2680
+VAPO_1987_CHIN;VAPO;Vapour Col (Deception Island);-60,721;-62,992;CHIN;chinstrap penguin;1987;15000
+VERN_2009_GENT;VERN;Vernadsky Station;-64,257;-65,245;GENT;gentoo penguin;2009;13
+VERN_2017_GENT;VERN;Vernadsky Station;-64,257;-65,245;GENT;gentoo penguin;2017;247
+VIET_1987_CHIN;VIET;Vietor Rock;-61,098;-62,683;CHIN;chinstrap penguin;1987;200
+VORT_1945_ADEL;VORT;Vortex Island;-57,642;-63,726;ADEL;adelie penguin;1945;300
+VORT_1947_ADEL;VORT;Vortex Island;-57,642;-63,726;ADEL;adelie penguin;1947;275
+VORT_2022_ADEL;VORT;Vortex Island;-57,642;-63,726;ADEL;adelie penguin;2022;6937
+VRNW_1987_CHIN;VRNW;Vietor Rock (northwest);-61,094;-62,676;CHIN;chinstrap penguin;1987;100
+WABL_1987_CHIN;WABL;Cape Wallace Bluff (south);-62,266;-63,282;CHIN;chinstrap penguin;1987;75000
+WALL_1987_CHIN;WALL;Cape Wallace;-62,209;-63,233;CHIN;chinstrap penguin;1987;225000
+WALL_1987_GENT;WALL;Cape Wallace;-62,209;-63,233;GENT;gentoo penguin;1987;550
+WALL_2020_GENT;WALL;Cape Wallace;-62,209;-63,233;GENT;gentoo penguin;2020;4752
+WASH_1968_EMPE;WASH;Cape Washington;165,382;-74,637;EMPE;emperor penguin;1968;3150
+WASH_1983_EMPE;WASH;Cape Washington;165,382;-74,637;EMPE;emperor penguin;1983;16384
+WASH_1986_EMPE;WASH;Cape Washington;165,382;-74,637;EMPE;emperor penguin;1986;19364
+WASH_2000_EMPE;WASH;Cape Washington;165,382;-74,637;EMPE;emperor penguin;2000;17397
+WASH_2001_EMPE;WASH;Cape Washington;165,382;-74,637;EMPE;emperor penguin;2001;18734
+WASH_2002_EMPE;WASH;Cape Washington;165,382;-74,637;EMPE;emperor penguin;2002;11093
+WASH_2003_EMPE;WASH;Cape Washington;165,382;-74,637;EMPE;emperor penguin;2003;13163
+WASH_2004_EMPE;WASH;Cape Washington;165,382;-74,637;EMPE;emperor penguin;2004;27860
+WASH_2005_EMPE;WASH;Cape Washington;165,382;-74,637;EMPE;emperor penguin;2005;40036
+WASH_2006_EMPE;WASH;Cape Washington;165,382;-74,637;EMPE;emperor penguin;2006;34180
+WASH_2007_EMPE;WASH;Cape Washington;165,382;-74,637;EMPE;emperor penguin;2007;31771
+WASH_2008_EMPE;WASH;Cape Washington;165,382;-74,637;EMPE;emperor penguin;2008;33495
+WASH_2009_EMPE;WASH;Cape Washington;165,382;-74,637;EMPE;emperor penguin;2009;11808
+WASH_2010_EMPE;WASH;Cape Washington;165,382;-74,637;EMPE;emperor penguin;2010;23347
+WASH_2011_EMPE;WASH;Cape Washington;165,382;-74,637;EMPE;emperor penguin;2011;30744
+WASH_2012_EMPE;WASH;Cape Washington;165,382;-74,637;EMPE;emperor penguin;2012;29878
+WASH_2014_EMPE;WASH;Cape Washington;165,382;-74,637;EMPE;emperor penguin;2014;16280
+WASH_2015_EMPE;WASH;Cape Washington;165,382;-74,637;EMPE;emperor penguin;2015;24997
+WASH_2016_EMPE;WASH;Cape Washington;165,382;-74,637;EMPE;emperor penguin;2016;19402
+WASH_2017_EMPE;WASH;Cape Washington;165,382;-74,637;EMPE;emperor penguin;2017;12472
+WASH_2018_EMPE;WASH;Cape Washington;165,382;-74,637;EMPE;emperor penguin;2018;29052
+WASH_2019_EMPE;WASH;Cape Washington;165,382;-74,637;EMPE;emperor penguin;2019;16677
+WATE_1986_CHIN;WATE;Waterboat Point;-62,858;-64,824;CHIN;chinstrap penguin;1986;15
+WATE_1996_CHIN;WATE;Waterboat Point;-62,858;-64,824;CHIN;chinstrap penguin;1996;2
+WATE_2012_CHIN;WATE;Waterboat Point;-62,858;-64,824;CHIN;chinstrap penguin;2012;7
+WATE_2017_CHIN;WATE;Waterboat Point;-62,858;-64,824;CHIN;chinstrap penguin;2017;4
+WATE_1986_GENT;WATE;Waterboat Point;-62,858;-64,824;GENT;gentoo penguin;1986;1010
+WATE_1996_GENT;WATE;Waterboat Point;-62,858;-64,824;GENT;gentoo penguin;1996;1216
+WATE_2012_GENT;WATE;Waterboat Point;-62,858;-64,824;GENT;gentoo penguin;2012;4381
+WATT_1982_ADEL;WATT;Watt Bay;144,285;-66,995;ADEL;adelie penguin;1982;1850
+WATT_1997_ADEL;WATT;Watt Bay;144,285;-66,995;ADEL;adelie penguin;1997;1600
+WAYA_1982_ADEL;WAYA;Way Archipelago;143,589;-66,857;ADEL;adelie penguin;1982;20244
+WHIT_1947_CHIN;WHIT;Cape Whitson;-44,544;-60,748;CHIN;chinstrap penguin;1947;4000
+WHTY_1972_ADEL;WHTY;Blakeney/Whitney;110,557;-66,246;ADEL;adelie penguin;1972;3175
+WHTY_1980_ADEL;WHTY;Blakeney/Whitney;110,557;-66,246;ADEL;adelie penguin;1980;3795
+WILD_2003_MACA;WILD;Point Wild;-54,861;-61,098;MACA;macaroni penguin;2003;2
+WINK_1983_ADEL;WINK;Winkle Island (two islets next to Winkle Island);-65,686;-65,52;ADEL;adelie penguin;1983;52
+WINW_1987_CHIN;WINW;Window Island;-61,124;-62,568;CHIN;chinstrap penguin;1987;75
+WITH_1979_CHIN;WITH;Withem Island;-59,138;-62,235;CHIN;chinstrap penguin;1979;20000
+WITH_2016_CHIN;WITH;Withem Island;-59,138;-62,235;CHIN;chinstrap penguin;2016;9483
+WOOD_1981_ADEL;WOOD;Wood Bay;165,133;-74,33;ADEL;adelie penguin;1981;1300
+WOOI_1987_CHIN;WOOI;Wood Island;-60,304;-62,484;CHIN;chinstrap penguin;1987;5500
+WTAY_2022_ADEL;WTAY;West of Tay Head;-55,643;-63,334;ADEL;adelie penguin;2022;3500
+YALO_1954_ADEL;YALO;Yalour Islands;-64,156;-65,239;ADEL;adelie penguin;1954;25000
+YALO_2004_ADEL;YALO;Yalour Islands;-64,156;-65,239;ADEL;adelie penguin;2004;5558
+YALO_2016_ADEL;YALO;Yalour Islands;-64,156;-65,239;ADEL;adelie penguin;2016;3541
+YALO_2020_ADEL;YALO;Yalour Islands;-64,156;-65,239;ADEL;adelie penguin;2020;3461
+YANK_1987_GENT;YANK;Yankee Harbor;-59,769;-62,526;GENT;gentoo penguin;1987;4500
+YTRE_1975_ADEL;YTRE;Ytrehovdeholmen;39,433;-69,217;ADEL;adelie penguin;1975;13
+YTRE_1981_ADEL;YTRE;Ytrehovdeholmen;39,433;-69,217;ADEL;adelie penguin;1981;36
+YTRE_1982_ADEL;YTRE;Ytrehovdeholmen;39,433;-69,217;ADEL;adelie penguin;1982;56
+YTRE_1984_ADEL;YTRE;Ytrehovdeholmen;39,433;-69,217;ADEL;adelie penguin;1984;41
+YTRE_1986_ADEL;YTRE;Ytrehovdeholmen;39,433;-69,217;ADEL;adelie penguin;1986;43
+YTRE_1989_ADEL;YTRE;Ytrehovdeholmen;39,433;-69,217;ADEL;adelie penguin;1989;40
+YTRE_1990_ADEL;YTRE;Ytrehovdeholmen;39,433;-69,217;ADEL;adelie penguin;1990;44
+YTRE_1994_ADEL;YTRE;Ytrehovdeholmen;39,433;-69,217;ADEL;adelie penguin;1994;29
+YTRE_1995_ADEL;YTRE;Ytrehovdeholmen;39,433;-69,217;ADEL;adelie penguin;1995;27
+YTRE_1996_ADEL;YTRE;Ytrehovdeholmen;39,433;-69,217;ADEL;adelie penguin;1996;24
+YTRE_1997_ADEL;YTRE;Ytrehovdeholmen;39,433;-69,217;ADEL;adelie penguin;1997;66
+YTRE_1998_ADEL;YTRE;Ytrehovdeholmen;39,433;-69,217;ADEL;adelie penguin;1998;85
+YTRE_1999_ADEL;YTRE;Ytrehovdeholmen;39,433;-69,217;ADEL;adelie penguin;1999;105
+YTRE_2000_ADEL;YTRE;Ytrehovdeholmen;39,433;-69,217;ADEL;adelie penguin;2000;105
+YTRE_2001_ADEL;YTRE;Ytrehovdeholmen;39,433;-69,217;ADEL;adelie penguin;2001;107
+YTRE_2002_ADEL;YTRE;Ytrehovdeholmen;39,433;-69,217;ADEL;adelie penguin;2002;122
+YTRE_2003_ADEL;YTRE;Ytrehovdeholmen;39,433;-69,217;ADEL;adelie penguin;2003;83
+YTRE_2004_ADEL;YTRE;Ytrehovdeholmen;39,433;-69,217;ADEL;adelie penguin;2004;102
+ZAWA_2016_CHIN;ZAWA;Zawadski Stacks;-58,784;-62,079;CHIN;chinstrap penguin;2016;68
+ZEDI_1987_CHIN;ZEDI;Zed Island;-60,166;-62,433;CHIN;chinstrap penguin;1987;8000
