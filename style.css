@@ -17,9 +17,6 @@ body{
   float: inline-grid;
   margin: 0.5em:
 }
-.desc{
-  width:50%;
-  position: left;
 .img{
   width:50%;
   position:right;
