@@ -64,6 +64,10 @@
             <p>MARCHAND Maxence, Master Observation de la Terre et Géomatique, Université de Strasbourg</p>
         </div>
         <script>
+  		$(".img").width($(window).width() / 3);
+  		window.addEventListener("resize", function() {
+    			$(".img").width($(window).width() / 3);
+ 		});
         </script>
     </body>
 </html>
