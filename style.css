@@ -6,7 +6,7 @@ body{
   text-align: center;
   color: powderblue;
 }
-  .section{
+.section{
   position : relative;
   background-color: #000099;
   padding: 1em;
@@ -22,7 +22,6 @@ body{
   position: left;
 .img{
   width:50%;
-  max-width:50%;
   position:right;
 .text{
   color: lavenderblush;
