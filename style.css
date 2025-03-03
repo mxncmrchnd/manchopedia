@@ -15,11 +15,7 @@ body{
 .container{
   background-color: #000066;
   float: inline-grid;
-  margin: 0.5em:
-}
-.img{
-  width:50%;
-  position:right;
+  margin: 0.5em;
 }
 .text{
   color: lavenderblush;
