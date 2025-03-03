@@ -14,10 +14,15 @@ body{
 }
 .container{
   background-color: #000066;
-  width: 50%;
   float: inline-grid;
   margin: 0.5em:
 }
+.desc{
+  width:50%;
+  position: left;
+.img{
+  width:50%;
+  position:right;
 .text{
   color: lavenderblush;
   text-align: justify;
