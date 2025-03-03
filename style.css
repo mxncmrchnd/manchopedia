@@ -22,6 +22,7 @@ body{
   position: left;
 .img{
   width:50%;
+  max-width:50%;
   position:right;
 .text{
   color: lavenderblush;
